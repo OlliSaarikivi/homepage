@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/OlliSaarikivi/homepage-upd
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-<iframe src="https://onedrive.live.com/embed?cid=2200492C755BF71B&resid=2200492C755BF71B%21191307&authkey=AO9XYa55Ey9iYsY&em=2" width="476" height="288" frameborder="0" scrolling="no"></iframe>
+<figure class="fullwidth iframe-wrapper"><iframe src="https://onedrive.live.com/embed?cid=2200492C755BF71B&resid=2200492C755BF71B%21191307&authkey=AO9XYa55Ey9iYsY&em=2" width="476" height="288" frameborder="0" scrolling="no"></iframe></figure>
 
 ### Markdown
 
