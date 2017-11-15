@@ -206,7 +206,6 @@ label.sidenote-number { display: inline; }
 label.margin-toggle:not(.sidenote-number) { display: none; }
 
 .iframe-wrapper { position: relative;
-                  padding-bottom: 56.25%; /* 16:9 */
                   padding-top: 25px;
                   height: 0; }
 
