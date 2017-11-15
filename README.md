@@ -1,5 +1,5 @@
 ---
-title:Olli Saarikivi
+title: Olli Saarikivi
 ---
 
 You can find my CV below. To get it as a PDF please use the menu at the bottom of the embed.
