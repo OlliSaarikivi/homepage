@@ -1,4 +1,10 @@
-## Curriculum Vitae
+### Online Profiles
+
+[LinkedIn](https://www.linkedin.com/in/ollisaarikivi)
+[Facebook](https://www.facebook.com/olli.saarikivi)
+[Google Scholar](https://scholar.google.fi/citations?user=1DHsgZgAAAAJ&amp;hl=en)
+
+### Curriculum Vitae
 
 You can find my CV below. For a PDF please use the menu at the bottom.
 
