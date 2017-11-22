@@ -15,7 +15,7 @@ Olli Saarikivi, Margus Veanes, Todd Mytkowicz, Madan Musuvathi:
 *Fusing Effectful Comprehensions*.
 PLDI 2017.
 &ensp;
-{{% doi "10.1145/3062341.3062362" %}}
+{% include doi.html doi="10.1145/3062341.3062362" %}
 {{% slides "SaaVeaMytMus_PLDI2017.pptx" %}}
 
 Olli Saarikivi, Margus Veanes:
@@ -29,37 +29,37 @@ Olli Saarikivi, Hernán Ponce de León, Kari Kähkönen, Keijo Heljanko, Javier 
 *Minimizing Test Suites with Unfoldings of Multithreaded Programs*.
 ACM Transactions on Embedded Computing Systems (TECS) 16(2), 2017, special issue on ACSD 2015.
 &ensp;
-{{% doi "10.1145/3012281" %}}
+{% include doi.html doi="10.1145/3012281" %}
 
 Olli Saarikivi, Keijo Heljanko:
 *LCTD: Tests-guided proofs for C programs on LLVM (competition contribution)*.
 TACAS 2016.
 &ensp;
-{{% doi "10.1007/978-3-662-49674-9_62" %}}
+{% include doi.html doi="10.1007/978-3-662-49674-9_62" %}
 
 Olli Saarikivi, Keijo Heljanko:
 *LCTD: Test-guided proofs for C programs on LLVM*.
 Journal of Logical and Algebraic Methods in Programming 85(6), 2016.
 &ensp;
-{{% doi "10.1016/j.jlamp.2015.10.010" %}}
+{% include doi.html doi="10.1016/j.jlamp.2015.10.010" %}
 
 Kari Kähkönen, Olli Saarikivi, Keijo Heljanko:
 *Unfolding based automated testing of multithreaded programs*.
 Automated Software Engineering 22(4), 2015.
 &ensp;
-{{% doi "10.1007/s10515-014-0150-6" %}}
+{% include doi.html doi="10.1007/s10515-014-0150-6" %}
 
 Hernán Ponce de León, Olli Saarikivi, Kari Kähkönen, Keijo Heljanko, Javier Esparza:
 *Unfolding based minimal test suites for testing multithreaded programs*.
 ACSD 2015.
 &ensp;
-{{% doi "10.1109/ACSD.2015.12" %}}
+{% include doi.html doi="10.1109/ACSD.2015.12" %}
 
 Olli Saarikivi, Keijo Heljanko:
 *Reporting races in dynamic partial order reduction*.
 NFM 2015.
 &ensp;
-{{% doi "10.1007/978-3-319-17524-9_35" %}}
+{% include doi.html doi="10.1007/978-3-319-17524-9_35" %}
 
 Olli Saarikivi:
 *Test-guided proofs for C programs on LLVM*.
@@ -71,19 +71,19 @@ Kari Kähkönen, Olli Saarikivi, Keijo Heljanko:
 *LCT: A parallel distributed testing tool for multithreaded Java programs*.
 PDMC 2012.
 &ensp;
-{{% doi "10.1016/j.entcs.2013.09.002" %}}
+{% include doi.html doi="10.1016/j.entcs.2013.09.002" %}
 
 Kari Kähkönen, Olli Saarikivi, Keijo Heljanko:
 *Using unfoldings in automated testing of multithreaded programs*.
 ASE 2012.
 &ensp;
-{{% doi "10.1145/2351676.2351698" %}}
+{% include doi.html doi="10.1145/2351676.2351698" %}
 
 Olli Saarikivi, Kari Kähkönen, Keijo Heljanko:
 *Improving dynamic partial order reductions for concolic testing*.
 ACSD 2012.
 &ensp;
-{{% doi "10.1109/ACSD.2012.18" %}}
+{% include doi.html doi="10.1109/ACSD.2012.18" %}
 
 Kari Kähkönen, Tuomas Launiainen, Olli Saarikivi, Janne Kauttio, Keijo Heljanko, Ilkka Niemelä:
 *LCT: An open source concolic testing tool for Java programs*.
