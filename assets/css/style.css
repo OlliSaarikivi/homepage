@@ -9,7 +9,7 @@ body { width: 87.5%;
        padding-left: 12.5%;
        font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
        background-color: #ffffff;
-       color: #111;
+       color: #040F0F;
        max-width: 1400px;
        counter-reset: sidenote-counter; }
 
