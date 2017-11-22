@@ -6,8 +6,8 @@ title: CV
 
 **Aalto University**, Department of Computer Science
 
-*Sept 2013 – Jan 2018 (expected)* Doctor of Science  
-*Sept 2011 – Aug 2013* Master of Science
+*Sept 2013 – Jan 2018 (expected)* <span style="float:right;">Doctor of Science</span>  
+*Sept 2011 – Aug 2013* <span style="float:right;">Master of Science</span>
 
 **Helsinki University**, Department of Computer Science
 
@@ -17,9 +17,9 @@ title: CV
 
 **Aalto University**, Department of Computer Science
 
-*1 Sept 2013 – present* Doctoral Student  
-*1 June 2010 – 31 Aug 2013* Research Assistant  
-*1 June 2009 – 31 Aug 2009* Research Assistant
+*1 Sept 2013 – present* <span style="float:right;">Doctoral Student</span>  
+*1 June 2010 – 31 Aug 2013* <span style="float:right;">Research Assistant</span>  
+*1 June 2009 – 31 Aug 2009* <span style="float:right;">Research Assistant</span>
 
 Extended a Java dynamic symbolic execution tool to support multi-threaded programs.
 
@@ -29,24 +29,22 @@ TA for CS-E4110 Concurrent Programming in 2013–2017 and ICS-A1120 Programming 
 
 **Microsoft Research**, Redmond, USA
 
-*6 June 2016 - 9 Sept 2016* Research intern  
-*2 Feb 2015 - 8 May 2015* Research intern
-
-Published research results in CAV 2017 and PLDI 2017.
+*6 June 2016 - 9 Sept 2016* <span style="float:right;">Research intern</span>  
+*2 Feb 2015 - 8 May 2015* <span style="float:right;">Research intern</span>
 
 Developed frontend, backend and optimizations for a stream comprehension compiler.
 
-Improved pattern matching query compilation in the SCOPE Big Data language. My code was merged into the main branch of the Cosmos Big Data platform.
+Improved pattern matching query compilation in the SCOPE query language for the Cosmos Big Data platform.
 
 **Optofidelity Ltd.**
 
-*17 June 2008 – 29 June 2008* Remote work  
-*5 June 2007 – 24 Aug 2007* Trainee
+*17 June 2008 – 29 June 2008* <span style="float:right;">Remote work</span>  
+*5 June 2007 – 24 Aug 2007* <span style="float:right;">Trainee</span>
 
 **Nokia Research Center**
 
-*26 June 2006 – 28 July 2006* Trainee  
-*1 Sept 2004 – 31 May 2006* Trainee
+*26 June 2006 – 28 July 2006* <span style="float:right;">Trainee</span>  
+*1 Sept 2004 – 31 May 2006* <span style="float:right;">Trainee</span>
 
 ## Publications
 
