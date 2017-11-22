@@ -244,7 +244,7 @@ label.margin-toggle:not(.sidenote-number) { display: none; }
                             div.table-wrapper, table { width: 85%; }
                             img { width: 100%; } }
 
-@media not (max-width: 760px) {
+@media not all and (max-width: 760px) {
 .maybemargin { float: right;
                          clear: right;
                          margin-right: -60%;
