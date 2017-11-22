@@ -2,7 +2,7 @@
 title: CV
 ---
 
-# Publications
+## Publications
 
 Olli Saarikivi, Margus Veanes:
 *Minimization of Symbolic Transducers*.
@@ -91,31 +91,31 @@ BYTECODE 2011.
 &ensp;
 {{% pdf "KahLauSaaKauHelNie-BYTECODE2011.pdf" %}}
 
-# Education
+## Education
 
-## Doctoral student
+### Doctoral student
 **Sept. 2013 – present** Aalto University, Department Computer Science and Engineering
 
 My thesis topics include automated testing methods for sequential and concurrent
 software, and applications of symbolic automata and transducers to optimizing
 stream computations.
 
-## M.Sc. in Computer Science
+### M.Sc. in Computer Science
 **Sept. 2011 – Aug. 2013** Aalto University, Department of Information and Computer Science
 
-## B.Sc. in Computer Science
+### B.Sc. in Computer Science
 **Sept. 2007 – Apr. 2011** Helsinki University, Department of Computer Science
 
-## Päivölä High School of Mathematics
+### Päivölä High School of Mathematics
 **July 2004 – May 2006**
 
 During this I had the opportunity to work at Nokia Research Center,
 thanks to a partnership between Nokia and the school. See the Work
 Experience section for details.
 
-# Work Experience
+## Work Experience
 
-## Aalto University
+### Aalto University
 **1 Sept. 2013 – present** Doctoral student at the Department of Computer
 Science and Engineering
 
@@ -136,7 +136,7 @@ From the summer of 2012 onwards I was employed full time. During previous
 teaching periods I was employed part time, 1 day per week, while
 the summers were full time.
 
-## Microsoft Research
+### Microsoft Research
 
 **6 June 2016 - 9 Sept. 2016** Research intern
 
@@ -155,7 +155,7 @@ over modular hand-written and LINQ implementations. We developed a fusion
 procedure that uses an SMT solver and reachability analysis to make fusing
 larger compositions feasible.
 
-## Helsinki University of Technology
+### Helsinki University of Technology
 **1 June 2009 – 31 Aug. 2009** Research assistant at the Laboratory for
 Theoretical Computer Science
 
@@ -164,7 +164,7 @@ I developed a set of utilities to generate test drivers for the
 automated testing tool LCT and unit tests from the output of the testing
 tool. I also designed and implemented a heuristic for directed testing.
 
-## Optofidelity Ltd.
+### Optofidelity Ltd.
 
 **17 June 2008 – 29 June 2008** 36 hours of work on a one-off project.
 
@@ -176,7 +176,7 @@ My main project was a technology demo that used a PTZ camera and a
 machine vision library to track a printed target and read a handwritten
 phone number from it.
 
-## Nokia Research Center
+### Nokia Research Center
 
 **26 June 2006 – 28 July 2006** Full time trainee  
 **12 Aug. 2005 – 31 May 2006** Part time trainee, 12 hours/week  
@@ -191,7 +191,7 @@ mobile multiplayer gaming framework.
 This traineeship was part of my education at the Päivölä High School of
 Mathematics.
 
-# Conferences and Schools
+## Conferences and Schools
 
 Attended the 2016 European Joint Conferences on Theory and Practice of Software
 (ETAPS 2016) and presented our [SV-COMP](https://sv-comp.sosy-lab.org/)
@@ -217,7 +217,7 @@ Attended the 12th International Conference on Application of Concurrency
 to System Design (ACSD 2012) to present the paper *Improving Dynamic
 Partial Order Reductions for Concolic Testing*.
 
-# Awards and Honours
+## Awards and Honours
 
 I was selected to the *Honours Programme in Information and Computer
 Science* at Aalto University for the academic years 2011–2012 and
