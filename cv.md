@@ -4,7 +4,7 @@ title: CV
 
 ## Work Experience
 
-**Aalto University**, Department of Computer Science
+### Aalto University, Department of Computer Science
 
 *Doctoral Student* <span style="float:right;">*1 Sept 2013 – present*</span>  
 *Research Assistant* <span style="float:right;">*1 June 2010 – 31 Aug 2013*</span>  
