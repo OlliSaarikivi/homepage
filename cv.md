@@ -8,7 +8,7 @@ Olli Saarikivi, Margus Veanes:
 *Minimization of Symbolic Transducers*.
 CAV 2017.
 &ensp;
-{{% doi "10.1007/978-3-319-63390-9_10" %}}
+{% include doi.html doi="10.1007/978-3-319-63390-9_10" %}
 {{% slides "SaaVea_CAV2017.pptx" %}}
 
 Olli Saarikivi, Margus Veanes, Todd Mytkowicz, Madan Musuvathi:
