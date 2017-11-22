@@ -10,20 +10,14 @@ title: CV
 *Research Assistant* <span style="float:right;">*1 June 2010 – 31 Aug 2013*</span>  
 *Research Assistant* <span style="float:right;">*1 June 2009 – 31 Aug 2009*</span>
 
-Extended a Java dynamic symbolic execution tool to support multi-threaded programs.
-
-Developed a verification tool for C programs on LLVM and participated in SV-COMP.
-
-TA for CS-E4110 Concurrent Programming in 2013–2017 and ICS-A1120 Programming 2 in 2014.
+Extended a Java dynamic symbolic execution tool to support multi-threaded programs. Developed a verification tool for C programs on LLVM and participated in SV-COMP. Provided teaching assistance for CS-E4110 Concurrent Programming in 2013–2017 and ICS-A1120 Programming 2 in 2014.
 
 **Microsoft Research**, Redmond, USA
 
 *Research Intern* <span style="float:right;">*6 June 2016 - 9 Sept 2016*</span>  
 *Research Intern* <span style="float:right;">*2 Feb 2015 - 8 May 2015*</span>
 
-Developed frontend, backend and optimizations for a stream comprehension compiler.
-
-Improved pattern matching code generation in the SCOPE query language for the Cosmos Big Data platform.
+Developed frontend, backend and optimizations for a stream comprehension compiler. Improved pattern matching code generation in the SCOPE query language for the Cosmos Big Data platform.
 
 **Optofidelity Ltd.**
 
