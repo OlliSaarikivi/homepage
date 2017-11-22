@@ -17,7 +17,7 @@ In PLDI 2017.
 **Olli Saarikivi**, Margus Veanes:
 *Translating C# to Branching Symbolic Transducers*.
 In LPAR 2017 Short Presentations.
-{{% include sidelink.html href="https://easychair.org/publications/paper/74R7" %}}
+{{% include paperlink.html href="https://easychair.org/publications/paper/74R7" %}}
 
 **Olli Saarikivi**, Hernán Ponce de León, Kari Kähkönen, Keijo Heljanko, Javier Esparza:
 *Minimizing Test Suites with Unfoldings of Multithreaded Programs*.
@@ -96,7 +96,6 @@ Extended a Java dynamic symbolic execution tool to support multi-threaded progra
 Developed a verification tool for C programs on LLVM and participated in SV-COMP.
 
 TA for CS-E4110 Concurrent Programming in 2013–2017 and ICS-A1120 Programming 2 in 2014.
-
 
 **Microsoft Research**, Redmond, USA
 
