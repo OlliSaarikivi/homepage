@@ -143,7 +143,7 @@ a:link::-moz-selection { text-shadow: 0.03em 0 #b4d5fe, -0.03em 0 #b4d5fe, 0 0.0
 /* Sidenotes, margin notes, figures, captions */
 img { max-width: 100%; }
 
-.sidenote, .marginnote { float: right;
+.sidenote, .marginnote, .maybemargin { float: right;
                          clear: right;
                          margin-right: -60%;
                          width: 50%;
@@ -168,7 +168,7 @@ img { max-width: 100%; }
 .sidenote:before { content: counter(sidenote-counter) " ";
                    top: -0.5rem; }
 
-blockquote .sidenote, blockquote .marginnote { margin-right: -82%;
+blockquote .sidenote, blockquote .marginnote, blockquote .maybemargin { margin-right: -82%;
                                                min-width: 59%;
                                                text-align: left; }
 
@@ -184,7 +184,7 @@ code { font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
 
 h1 > code, h2 > code, h3 > code { font-size: 0.80em; }
 
-.marginnote > code, .sidenote > code { font-size: 1rem; }
+.marginnote > code, .sidenote > code, .maybemargin > code { font-size: 1rem; }
 
 pre.code { font-size: 0.9rem;
            width: 52.5%;
@@ -231,6 +231,7 @@ label.margin-toggle:not(.sidenote-number) { display: none; }
                             blockquote p, blockquote footer { width: 100%; }
                             label.margin-toggle:not(.sidenote-number) { display: inline; }
                             .sidenote, .marginnote { display: none; }
+                            .maybemargin,
                             .margin-toggle:checked + .sidenote,
                             .margin-toggle:checked + .marginnote { display: block;
                                                                    float: left;
