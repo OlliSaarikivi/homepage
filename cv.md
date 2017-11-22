@@ -17,7 +17,7 @@ In PLDI 2017.
 **Olli Saarikivi**, Margus Veanes:
 *Translating C# to Branching Symbolic Transducers*.
 In LPAR 2017 Short Presentations.
-{{% include paperlink.html href="https://easychair.org/publications/paper/74R7" %}}
+{% include paperlink.html href="https://easychair.org/publications/paper/74R7" %}
 
 **Olli Saarikivi**, Hernán Ponce de León, Kari Kähkönen, Keijo Heljanko, Javier Esparza:
 *Minimizing Test Suites with Unfoldings of Multithreaded Programs*.
