@@ -4,231 +4,156 @@ title: CV
 
 ## Publications
 
-Olli Saarikivi, Margus Veanes:
+**Olli Saarikivi**, Margus Veanes:
 *Minimization of Symbolic Transducers*.
-CAV 2017.
-&ensp;
+In CAV 2017.
 {% include doi.html doi="10.1007/978-3-319-63390-9_10" %}
-{{% slides "SaaVea_CAV2017.pptx" %}}
 
-Olli Saarikivi, Margus Veanes, Todd Mytkowicz, Madan Musuvathi:
+**Olli Saarikivi**, Margus Veanes, Todd Mytkowicz, Madan Musuvathi:
 *Fusing Effectful Comprehensions*.
-PLDI 2017.
-&ensp;
+In PLDI 2017.
 {% include doi.html doi="10.1145/3062341.3062362" %}
-{{% slides "SaaVeaMytMus_PLDI2017.pptx" %}}
 
-Olli Saarikivi, Margus Veanes:
+**Olli Saarikivi**, Margus Veanes:
 *Translating C# to Branching Symbolic Transducers*.
-LPAR 2017.
-&ensp;
-{{% pdf "SaaVea_LPAR2017.pdf" %}}
-{{% slides "SaaVea_LPAR2017.pptx" %}}
+In LPAR 2017 Short Presentations.
+{{% include sidelink.html href="https://easychair.org/publications/paper/74R7" %}}
 
-Olli Saarikivi, Hernán Ponce de León, Kari Kähkönen, Keijo Heljanko, Javier Esparza:
+**Olli Saarikivi**, Hernán Ponce de León, Kari Kähkönen, Keijo Heljanko, Javier Esparza:
 *Minimizing Test Suites with Unfoldings of Multithreaded Programs*.
-ACM Transactions on Embedded Computing Systems (TECS) 16(2), 2017, special issue on ACSD 2015.
-&ensp;
+TECS 16(2), 2017.
 {% include doi.html doi="10.1145/3012281" %}
 
-Olli Saarikivi, Keijo Heljanko:
+**Olli Saarikivi**, Keijo Heljanko:
 *LCTD: Tests-guided proofs for C programs on LLVM (competition contribution)*.
-TACAS 2016.
-&ensp;
+In TACAS 2016.
 {% include doi.html doi="10.1007/978-3-662-49674-9_62" %}
 
-Olli Saarikivi, Keijo Heljanko:
+**Olli Saarikivi**, Keijo Heljanko:
 *LCTD: Test-guided proofs for C programs on LLVM*.
-Journal of Logical and Algebraic Methods in Programming 85(6), 2016.
-&ensp;
+JLAMP 85(6), 2016.
 {% include doi.html doi="10.1016/j.jlamp.2015.10.010" %}
 
-Kari Kähkönen, Olli Saarikivi, Keijo Heljanko:
+Kari Kähkönen, **Olli Saarikivi**, Keijo Heljanko:
 *Unfolding based automated testing of multithreaded programs*.
-Automated Software Engineering 22(4), 2015.
-&ensp;
+ASE 22(4), 2015.
 {% include doi.html doi="10.1007/s10515-014-0150-6" %}
 
-Hernán Ponce de León, Olli Saarikivi, Kari Kähkönen, Keijo Heljanko, Javier Esparza:
+Hernán Ponce de León, **Olli Saarikivi**, Kari Kähkönen, Keijo Heljanko, Javier Esparza:
 *Unfolding based minimal test suites for testing multithreaded programs*.
-ACSD 2015.
-&ensp;
+In ACSD 2015.
 {% include doi.html doi="10.1109/ACSD.2015.12" %}
 
-Olli Saarikivi, Keijo Heljanko:
+**Olli Saarikivi**, Keijo Heljanko:
 *Reporting races in dynamic partial order reduction*.
-NFM 2015.
-&ensp;
+In NFM 2015.
 {% include doi.html doi="10.1007/978-3-319-17524-9_35" %}
 
-Olli Saarikivi:
-*Test-guided proofs for C programs on LLVM*.
-Master's thesis, 2013.
-&ensp;
-{{% pdf "masters_thesis.pdf" %}}
-
-Kari Kähkönen, Olli Saarikivi, Keijo Heljanko:
+Kari Kähkönen, **Olli Saarikivi**, Keijo Heljanko:
 *LCT: A parallel distributed testing tool for multithreaded Java programs*.
-PDMC 2012.
-&ensp;
+In PDMC 2012.
 {% include doi.html doi="10.1016/j.entcs.2013.09.002" %}
 
-Kari Kähkönen, Olli Saarikivi, Keijo Heljanko:
+Kari Kähkönen, **Olli Saarikivi**, Keijo Heljanko:
 *Using unfoldings in automated testing of multithreaded programs*.
-ASE 2012.
-&ensp;
+In ASE 2012.
 {% include doi.html doi="10.1145/2351676.2351698" %}
 
-Olli Saarikivi, Kari Kähkönen, Keijo Heljanko:
+**Olli Saarikivi**, Kari Kähkönen, Keijo Heljanko:
 *Improving dynamic partial order reductions for concolic testing*.
-ACSD 2012.
-&ensp;
+In ACSD 2012.
 {% include doi.html doi="10.1109/ACSD.2012.18" %}
 
-Kari Kähkönen, Tuomas Launiainen, Olli Saarikivi, Janne Kauttio, Keijo Heljanko, Ilkka Niemelä:
+Kari Kähkönen, Tuomas Launiainen, **Olli Saarikivi**, Janne Kauttio, Keijo Heljanko, Ilkka Niemelä:
 *LCT: An open source concolic testing tool for Java programs*.
-BYTECODE 2011.
-&ensp;
-{{% pdf "KahLauSaaKauHelNie-BYTECODE2011.pdf" %}}
+In BYTECODE 2011.
+{% include pdf.html name="KahLauSaaKauHelNie-BYTECODE2011.pdf" %}
 
 ## Education
 
-### Doctoral student
-**Sept. 2013 – present** Aalto University, Department Computer Science and Engineering
+**Aalto University**, Department of Computer Science
 
-My thesis topics include automated testing methods for sequential and concurrent
-software, and applications of symbolic automata and transducers to optimizing
-stream computations.
+*Sept 2013 – Jan 2018 (expected)* Doctor of Science
 
-### M.Sc. in Computer Science
-**Sept. 2011 – Aug. 2013** Aalto University, Department of Information and Computer Science
+*Sept 2011 – Aug 2013* Master of Science
 
-### B.Sc. in Computer Science
-**Sept. 2007 – Apr. 2011** Helsinki University, Department of Computer Science
+**Helsinki University**, Department of Computer Science
 
-### Päivölä High School of Mathematics
-**July 2004 – May 2006**
-
-During this I had the opportunity to work at Nokia Research Center,
-thanks to a partnership between Nokia and the school. See the Work
-Experience section for details.
+*Sept 2007 – Apr 2011* Bachelor of Science
 
 ## Work Experience
 
-### Aalto University
-**1 Sept. 2013 – present** Doctoral student at the Department of Computer
-Science and Engineering
+**Aalto University**, Department of Computer Science
 
-See the Education section for details.
+*1 Sept 2013 – present* Doctoral Student
 
-**1 June 2010 – 31 Aug. 2013** Research assistant at the Department of
-Information and Computer Science
+*1 June 2010 – 31 Aug 2013* Research Assistant
 
-I worked on projects researching automated software testing
-and verification. I extended the dynamic symbolic execution tool LCT to
-support testing multithreaded Java programs. I also implemented a
-dynamic partial order reduction algorithm and we published the
-improvements I made in the paper “Improving Dynamic Partial Order
-Reductions for Concolic Testing”. For my Master’s Thesis I implemented
-the Dash algorithm for testing C programs.
+*1 June 2009 – 31 Aug 2009* Research Assistant
 
-From the summer of 2012 onwards I was employed full time. During previous
-teaching periods I was employed part time, 1 day per week, while
-the summers were full time.
+Extended a Java dynamic symbolic execution tool to support multi-threaded programs.
 
-### Microsoft Research
+Developed a verification tool for C programs on LLVM and participated in SV-COMP.
 
-**6 June 2016 - 9 Sept. 2016** Research intern
+TA for CS-E4110 Concurrent Programming in 2013–2017 and ICS-A1120 Programming 2 in 2014.
 
-I integrated a code generator for string matchers into the Scope query language
-for Microsoft's internal Cosmos big data platform. The code generator used
-symbolic automata enable minimization and composition of string matchers. On a
-popular set of regex benchmarks the code generator was 1.1X faster than Google's
-RE2 regex engine.
 
-**2 Feb. 2015 - 8 May 2015** Research intern
+**Microsoft Research**, Redmond, USA
 
-Interning under Margus Veanes I developed a tool that allows users to specify
-symbolic transducers as imperative C# code, fuses compositions of symbolic
-transducers and finally generates efficient C# that shows significant speedups
-over modular hand-written and LINQ implementations. We developed a fusion
-procedure that uses an SMT solver and reachability analysis to make fusing
-larger compositions feasible.
+*6 June 2016 - 9 Sept 2016* Research intern
+*2 Feb 2015 - 8 May 2015* Research intern
 
-### Helsinki University of Technology
-**1 June 2009 – 31 Aug. 2009** Research assistant at the Laboratory for
-Theoretical Computer Science
+Published research results in CAV 2017 and PLDI 2017.
 
-I worked on a project researching formal methods and automated testing.
-I developed a set of utilities to generate test drivers for the
-automated testing tool LCT and unit tests from the output of the testing
-tool. I also designed and implemented a heuristic for directed testing.
+Developed frontend, backend and optimizations for a stream comprehension compiler.
 
-### Optofidelity Ltd.
+Improved pattern matching query compilation in the SCOPE Big Data language. My code was merged into the main branch of the Cosmos Big Data platform.
 
-**17 June 2008 – 29 June 2008** 36 hours of work on a one-off project.
+**Optofidelity Ltd.**
 
-I built a sound capture component for a visual programming environment.
+*17 June 2008 – 29 June 2008* Remote work
 
-**5 June 2007 – 24 Aug. 2007** Trainee
+*5 June 2007 – 24 Aug 2007* Trainee
 
-My main project was a technology demo that used a PTZ camera and a
-machine vision library to track a printed target and read a handwritten
-phone number from it.
+**Nokia Research Center**
 
-### Nokia Research Center
+*26 June 2006 – 28 July 2006* Trainee
+*1 Sept 2004 – 31 May 2006* Trainee
 
-**26 June 2006 – 28 July 2006** Full time trainee  
-**12 Aug. 2005 – 31 May 2006** Part time trainee, 12 hours/week  
-**1 June 2005 – 11 Aug. 2005** Full time trainee  
-**1 Sept. 2004 – 31 May 2005** Part time trainee, 12 hours/week  
+## Talks
 
-The work was software development for internal projects. Two of my
-projects were concept demos on using image analysis techniques to
-generate content in games. One project was a technology demo for a
-mobile multiplayer gaming framework.
+*Minimization of Symbolic Transducers*. Talk at Computer Aided Verification: 29th International Conference (CAV 2017), Heidelberg, Germany.
 
-This traineeship was part of my education at the Päivölä High School of
-Mathematics.
+*Fusing Effectful Comprehensions*. Talk at the 38th ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI 2017), Barcelona, Spain.
 
-## Conferences and Schools
+*Translating C # to Branching Symbolic Transducers*. Talk at the 21st International Conference on Logic for Programming Artificial Intelligence and Reasoning (LPAR 2017), Maun, Botswana.
 
-Attended the 2016 European Joint Conferences on Theory and Practice of Software
-(ETAPS 2016) and presented our [SV-COMP](https://sv-comp.sosy-lab.org/)
-contribution: *LCTD: Tests-guided proofs for C programs on LLVM (competition
-contribution)*.
+*LCTD: Tests-guided proofs for C programs on LLVM (competition contribution)*. Talk at Tools and Algorithms for the Construction and Analysis of Systems: 22nd International Conference (TACAS 2016), Eindhoven, The Netherlands.
 
-Attended the 11th LASER Summer School on Software Engineering (LASER 2014).
+*LCT-D: Test-Guided Proofs for C Programs on LLVM*. Talk at the 25th Nordic Workshop on Programming Theory (NWPT 2013), Tallinn, Estonia.
 
-Attended SAT/SMT Summer School 2014.
+*Improving Dynamic Partial Order Reductions for Concolic Testing*. Talk at the 12th International Conference on Application of Concurrency to System Design (ACSD 2012), Hamburg, Germany.
 
-Attended the 4th Halmstad Summer School on Testing (HSST 2014).
+## Summer Schools
 
-Attended the 25th Nordic Workshop on Programming Theory (NWPT 2013) and
-gave a talk titled *LCT-D: Test-Guided Proofs for C Programs on LLVM*.
+11th LASER Summer School on Software Engineering (LASER 2014).
 
-Attended Summer School Marktoberdorf 2013 (MOD 2013) on software systems
-safety.
+SAT/SMT Summer School 2014.
 
-Attended the 27th IEEE/ACM International Conference on Automated
-Software Engineering (ASE 2012).
+4th Halmstad Summer School on Testing (HSST 2014).
 
-Attended the 12th International Conference on Application of Concurrency
-to System Design (ACSD 2012) to present the paper *Improving Dynamic
-Partial Order Reductions for Concolic Testing*.
+Summer School Marktoberdorf 2013 (MOD 2013) on software systems safety.
 
-## Awards and Honours
+## Grants
 
-I was selected to the *Honours Programme in Information and Computer
-Science* at Aalto University for the academic years 2011–2012 and
-2012–2013.
+Support grant for young researchers, 2014, Emil Aaltonen Foundation.
 
-*Meritorious Winner in the COMAP MCM: Mathematical Contest in
-Modeling* in 2006 with Olli Salli and Matti Nelimarkka.
+Selected for a department-funded Doctoral Student position at Aalto University in 2014.
 
-*Meritorious Winner in the COMAP ICM: Interdisciplinary Contest in
-Modeling* in 2005 with Vihtori Mäntylä and Olli-Petteri Pitkänen.
+Nokia Scholarship 2013, Nokia Foundation.
 
-COMAP, the Consortium for Mathematics and Its Applications, is a USA
-based organization that holds annual mathematics competitions for
-undergraduate level students.
+## Honours
+
+Selected to the Honours Programme in Information and Computer Science at Aalto University for the academic years 2011–2012 and 2012–2013.
+
+Meritorious Winner in the 2006 COMAP MCM and the 2005 COMAP ICM international undergraduate level mathematical modeling competitions.
