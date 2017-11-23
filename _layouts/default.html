@@ -7,6 +7,7 @@
 </head>
 <body>
 <section>
+<img class="profile" src="//graph.facebook.com/1267081921/picture?type=large">
 <h1>{{ site.title }}</h1>
 <ul class="navigation">{% assign menudocs = site.pages | where: "category", "menu" | sort: "order" %}{% for doc in menudocs %}
 {% if page.url == doc.url %}<li><em>{{ doc.title }}</em></li>{% else %}<li><a href="{{ doc.url }}">{{ doc.title }}</a></li>{% endif %}{% endfor %}
