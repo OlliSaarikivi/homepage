@@ -84,6 +84,11 @@ In ACSD 2015.
 In NFM 2015.
 [doi:10.1007/978-3-319-17524-9_35](https://doi.org/10.1007/978-3-319-17524-9_35)
 
+**Olli Saarikivi**.
+*Test-Guided Proofs for C Programs on LLVM*.
+Master's Thesis, Aalto University, Finland, 2013.
+[PDF](/Olli_Saarikivi_masters_thesis.pdf)
+
 Kari Kähkönen, **Olli Saarikivi**, Keijo Heljanko.
 *LCT: A parallel distributed testing tool for multithreaded Java programs*.
 In PDMC 2012.
