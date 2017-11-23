@@ -103,7 +103,7 @@ In BYTECODE 2011.
 
 ## Talks
 
-*Minimization of Symbolic Transducers*. Talk at Computer Aided Verification: 29th International Conference (CAV 2017), Heidelberg, Germany.
+*Minimization of Symbolic Transducers*. Talk at Computer Aided Verification: 29th International Conference (CAV 2017), Heidelberg, Germany.<span class="sidenote iframe-wrapper"><iframe width="854" height="480" src="https://www.youtube.com/embed/0IL60qJEKLU" frameborder="0" gesture="media" allowfullscreen></iframe></span>
 
 *Fusing Effectful Comprehensions*. Talk at the 38th ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI 2017), Barcelona, Spain.
 
