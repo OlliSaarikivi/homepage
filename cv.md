@@ -127,17 +127,3 @@ SAT/SMT Summer School 2014.
 4th Halmstad Summer School on Testing (HSST 2014).
 
 Summer School Marktoberdorf 2013 (MOD 2013) on software systems safety.
-
-## Grants
-
-Support grant for young researchers, 2014, Emil Aaltonen Foundation.
-
-Selected for a department-funded Doctoral Student position at Aalto University in 2014.
-
-Nokia Scholarship 2013, Nokia Foundation.
-
-## Honours
-
-Selected to the Honours Programme in Information and Computer Science at Aalto University for the academic years 2011–2012 and 2012–2013.
-
-Meritorious Winner in the 2006 COMAP MCM and the 2005 COMAP ICM international undergraduate level mathematical modeling competitions.
