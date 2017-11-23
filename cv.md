@@ -42,71 +42,71 @@ Developed frontend, backend and optimizations for a stream comprehension compile
 **Olli Saarikivi**, Margus Veanes.
 *Minimization of Symbolic Transducers*.
 In CAV 2017.
-<span class="automargin"><https://doi.org/10.1007/978-3-319-63390-9_10></span>
+[doi:10.1007/978-3-319-63390-9_10](https://doi.org/10.1007/978-3-319-63390-9_10)
 
 **Olli Saarikivi**, Margus Veanes, Todd Mytkowicz, Madan Musuvathi.
 *Fusing Effectful Comprehensions*.
 In PLDI 2017.
-<span class="automargin"><https://doi.org/10.1145/3062341.3062362></span>
+[doi:10.1145/3062341.3062362](https://doi.org/10.1145/3062341.3062362)
 
 **Olli Saarikivi**, Margus Veanes.
 *Translating C# to Branching Symbolic Transducers*.
 In LPAR 2017 Short Presentations.
-<span class="automargin"><https://easychair.org/publications/paper/74R7></span>
+[PDF](/Translating_C_to_Branching_Symbolic_Transducers.pdf)
 
 **Olli Saarikivi**, Hernán Ponce de León, Kari Kähkönen, Keijo Heljanko, Javier Esparza.
 *Minimizing Test Suites with Unfoldings of Multithreaded Programs*.
 TECS 16(2), 2017.
-<span class="automargin"><https://doi.org/10.1145/3012281></span>
+[doi:10.1145/3012281](https://doi.org/10.1145/3012281)
 
 **Olli Saarikivi**, Keijo Heljanko.
 *LCTD: Tests-guided proofs for C programs on LLVM (competition contribution)*.
 In TACAS 2016.
-<span class="automargin"><https://doi.org/10.1007/978-3-662-49674-9_62></span>
+[doi:10.1007/978-3-662-49674-9_62](https://doi.org/10.1007/978-3-662-49674-9_62)
 
 **Olli Saarikivi**, Keijo Heljanko.
 *LCTD: Test-guided proofs for C programs on LLVM*.
 JLAMP 85(6), 2016.
-<span class="automargin"><https://doi.org/10.1016/j.jlamp.2015.10.010></span>
+[doi:10.1016/j.jlamp.2015.10.010](https://doi.org/10.1016/j.jlamp.2015.10.010)
 
 Kari Kähkönen, **Olli Saarikivi**, Keijo Heljanko.
 *Unfolding based automated testing of multithreaded programs*.
 ASE 22(4), 2015.
-<span class="automargin"><https://doi.org/10.1007/s10515-014-0150-6></span>
+[doi:10.1007/s10515-014-0150-6](https://doi.org/10.1007/s10515-014-0150-6)
 
 Hernán Ponce de León, **Olli Saarikivi**, Kari Kähkönen, Keijo Heljanko, Javier Esparza.
 *Unfolding based minimal test suites for testing multithreaded programs*.
 In ACSD 2015.
-<span class="automargin"><https://doi.org/10.1109/ACSD.2015.12></span>
+[doi:10.1109/ACSD.2015.12](https://doi.org/10.1109/ACSD.2015.12)
 
 **Olli Saarikivi**, Keijo Heljanko.
 *Reporting races in dynamic partial order reduction*.
 In NFM 2015.
-<span class="automargin"><https://doi.org/10.1007/978-3-319-17524-9_35></span>
+[doi:10.1007/978-3-319-17524-9_35](https://doi.org/10.1007/978-3-319-17524-9_35)
 
 Kari Kähkönen, **Olli Saarikivi**, Keijo Heljanko.
 *LCT: A parallel distributed testing tool for multithreaded Java programs*.
 In PDMC 2012.
-<span class="automargin"><https://doi.org/10.1016/j.entcs.2013.09.002></span>
+[doi:10.1016/j.entcs.2013.09.002](https://doi.org/10.1016/j.entcs.2013.09.002)
 
 Kari Kähkönen, **Olli Saarikivi**, Keijo Heljanko.
 *Using unfoldings in automated testing of multithreaded programs*.
 In ASE 2012.
-<span class="automargin"><https://doi.org/10.1145/2351676.2351698></span>
+[doi:10.1145/2351676.2351698](https://doi.org/10.1145/2351676.2351698)
 
 **Olli Saarikivi**, Kari Kähkönen, Keijo Heljanko.
 *Improving dynamic partial order reductions for concolic testing*.
 In ACSD 2012.
-<span class="automargin"><https://doi.org/10.1109/ACSD.2012.18></span>
+[doi:10.1109/ACSD.2012.18](https://doi.org/10.1109/ACSD.2012.18)
 
 Kari Kähkönen, Tuomas Launiainen, **Olli Saarikivi**, Janne Kauttio, Keijo Heljanko, Ilkka Niemelä.
 *LCT: An open source concolic testing tool for Java programs*.
 In BYTECODE 2011.
-<span class="automargin">[LCT-BYTECODE2011.pdf](/LCT-BYTECODE2011.pdf)</span>
+[PDF](/LCT_An_Open_Source_Concolic_Testing_Tool_for_Java_Programs.pdf)
 
 ## Talks
 
-*Minimization of Symbolic Transducers*. Talk at Computer Aided Verification: 29th International Conference (CAV 2017), Heidelberg, Germany. <span class="automargin"><https://youtu.be/0IL60qJEKLU></span>
+*Minimization of Symbolic Transducers*. Talk at Computer Aided Verification: 29th International Conference (CAV 2017), Heidelberg, Germany.{% include sidenote content="Recording available at <https://youtu.be/0IL60qJEKLU>" %}
 
 *Fusing Effectful Comprehensions*. Talk at the 38th ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI 2017), Barcelona, Spain.
 
