@@ -52,8 +52,6 @@ p.subtitle { font-family: Cambria, serif;
              display: block;
              line-height: 1; }
 
-.numeral { font-family: Cambria, serif; }
-
 .danger { color: red; }
 
 ul.navigation {
@@ -174,8 +172,7 @@ img { max-width: 100%; }
 
 .sidenote-number { counter-increment: sidenote-counter; }
 
-.sidenote-number:after, .sidenote:before { font-family: Cambria, Georgia, serif;
-                                           position: relative;
+.sidenote-number:after, .sidenote:before { position: relative;
                                            vertical-align: baseline; }
 
 .sidenote-number:after { content: counter(sidenote-counter);
