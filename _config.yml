@@ -1,1 +1,14 @@
-theme: jekyll-theme-cayman
+title: Olli Saarikivi
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+markdown: "kramdown"
+plugins:
+  - jekyll-relative-links
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+
