@@ -8,34 +8,34 @@ permalink: /cv/
 ## Experience
 
 **Aalto University**, Department of Computer Science  
-*Doctoral Student* <span class="rightalign">*1 Sept 2013 – present*</span>  
-*Research Assistant* <span class="rightalign">*1 June 2010 – 31 Aug 2013*</span>  
-*Research Assistant* <span class="rightalign">*1 June 2009 – 31 Aug 2009*</span>
+*Doctoral Student* <span class="autorightalign">*1 Sept 2013 – present*</span>  
+*Research Assistant* <span class="autorightalign">*1 June 2010 – 31 Aug 2013*</span>  
+*Research Assistant* <span class="autorightalign">*1 June 2009 – 31 Aug 2009*</span>
 
 Extended a Java dynamic symbolic execution tool to support multi-threaded programs. Developed a verification tool for C programs on LLVM and participated in SV-COMP. Provided teaching assistance for CS-E4110 Concurrent Programming in 2013–2017 and ICS-A1120 Programming 2 in 2014.
 
 **Microsoft Research**, Redmond, USA  
-*Research Intern* <span class="rightalign">*6 June 2016 - 9 Sept 2016*</span>  
-*Research Intern* <span class="rightalign">*2 Feb 2015 - 8 May 2015*</span>
+*Research Intern* <span class="autorightalign">*6 June 2016 - 9 Sept 2016*</span>  
+*Research Intern* <span class="autorightalign">*2 Feb 2015 - 8 May 2015*</span>
 
 Developed frontend, backend and optimizations for a stream comprehension compiler. Improved pattern matching code generation in the SCOPE query language for the Cosmos Big Data platform.
 
 **Optofidelity Ltd.**  
-*Remote Work* <span class="rightalign">*17 June 2008 – 29 June 2008*</span>  
-*Trainee* <span class="rightalign">*5 June 2007 – 24 Aug 2007*</span>
+*Remote Work* <span class="autorightalign">*17 June 2008 – 29 June 2008*</span>  
+*Trainee* <span class="autorightalign">*5 June 2007 – 24 Aug 2007*</span>
 
 **Nokia Research Center**  
-*Trainee* <span class="rightalign">*26 June 2006 – 28 July 2006*</span>  
-*Trainee* <span class="rightalign">*1 Sept 2004 – 31 May 2006*</span>
+*Trainee* <span class="autorightalign">*26 June 2006 – 28 July 2006*</span>  
+*Trainee* <span class="autorightalign">*1 Sept 2004 – 31 May 2006*</span>
 
 ## Education
 
 **Aalto University**, Department of Computer Science  
-*Doctor of Science* <span class="rightalign">*Sept 2013 – Jan 2018 (expected)*</span>  
-*Master of Science* <span class="rightalign">*Sept 2011 – Aug 2013*</span>
+*Doctor of Science* <span class="autorightalign">*Sept 2013 – Jan 2018 (expected)*</span>  
+*Master of Science* <span class="autorightalign">*Sept 2011 – Aug 2013*</span>
 
 **Helsinki University**, Department of Computer Science  
-*Bachelor of Science* <span class="rightalign">*Sept 2007 – Apr 2011*</span>
+*Bachelor of Science* <span class="autorightalign">*Sept 2007 – Apr 2011*</span>
 
 ## Publications
 
