@@ -90,8 +90,6 @@ p, table { margin-top: 1.4rem;
 
 table { border-collapse: collapse; }
 
-.rightalign { float: right; }
-
 /* Chapter Epigraphs */
 div.epigraph { margin: 5em 0; }
 
@@ -240,12 +238,7 @@ img.profile {
     border-radius: 50%;
 }
 
-
-@media (max-width: 415px) {
-       .rightalign {
-              float: none;
-       }
-}
+.autorightalign { float: right; }
 
 @media (max-width: 760px) { body { width: 84%;
                                    padding-left: 8%;
@@ -273,7 +266,11 @@ img.profile {
                                                                    position: relative; }
                             label { cursor: pointer; }
                             div.table-wrapper, table { width: 85%; }
-                            img { width: 100%; } }
+                            img { width: 100%; }
+                            .autorightalign {
+                                   float: none;
+                            }
+}
 
 @media not all and (max-width: 760px) {
 .automargin { float: right;
