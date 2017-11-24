@@ -240,6 +240,13 @@ img.profile {
     border-radius: 50%;
 }
 
+
+@media (max-width: 415px) {
+       .rightalign {
+              float: none;
+       }
+}
+
 @media (max-width: 760px) { body { width: 84%;
                                    padding-left: 8%;
                                    padding-right: 8%; }
