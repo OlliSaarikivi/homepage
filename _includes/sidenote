@@ -1,1 +1,0 @@
-{% assign sidenote_id = sidenote_id | plus: 1 %}<label for="sn-{{ sidenote_id }}" class="margin-toggle sidenote-number"/><input type="checkbox" id="sn-{{ sidenote_id }}" class="margin-toggle"/><span class="sidenote">{{ include.content }}</span>

@@ -3,11 +3,16 @@ title: Home
 category: "menu"
 order: 1
 ---
+
 ## Contact Information
 
-|------------|-------------|
+|-|-|
 |Email|[olli.saarikivi@iki.fi](mailto:olli.saarikivi@iki.fi)|
 |Mobile phone|[+358405240696](tel:+358405240696)|
+
+## [Curriculum Vitae](cv.md)
+
+## [List of Publications](cv.md/#publications)
 
 ## Online Profiles
 

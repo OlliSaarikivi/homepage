@@ -1,5 +1,5 @@
 ---
-title: Curriculum Vitae
+title: CV
 category: "menu"
 order: 2
 permalink: /cv/
@@ -7,35 +7,65 @@ permalink: /cv/
 
 ## Experience
 
-**Aalto University**, Department of Computer Science  
-*Doctoral Student* <span class="autorightalign">*1 Sept 2013 – present*</span>  
-*Research Assistant* <span class="autorightalign">*1 June 2010 – 31 Aug 2013*</span>  
-*Research Assistant* <span class="autorightalign">*1 June 2009 – 31 Aug 2009*</span>
+**Aalto University**, Department of Computer Science
+{: class="noskip"}
+
+|||
+|:--|--:|
+|*Doctoral Student*|*1 Sept 2013 – present*|
+|*Research Assistant*|*1 June 2010 – 31 Aug 2013*|
+|*Research Assistant*|*1 June 2009 – 31 Aug 2009*|
+{: class="nohead"}
 
 Extended a Java dynamic symbolic execution tool to support multi-threaded programs. Developed a verification tool for C programs on LLVM and participated in SV-COMP. Provided teaching assistance for CS-E4110 Concurrent Programming in 2013–2017 and ICS-A1120 Programming 2 in 2014.
 
-**Microsoft Research**, Redmond, USA  
-*Research Intern* <span class="autorightalign">*6 June 2016 - 9 Sept 2016*</span>  
-*Research Intern* <span class="autorightalign">*2 Feb 2015 - 8 May 2015*</span>
+**Microsoft Research**, Redmond, USA
+{: class="noskip"}
+
+|||
+|:--|--:|
+|*Research Intern*|*6 June 2016 - 9 Sept 2016*|
+|*Research Intern*|*2 Feb 2015 - 8 May 2015*|
+{: class="nohead"}
 
 Developed frontend, backend and optimizations for a stream comprehension compiler. Improved pattern matching code generation in the SCOPE query language for the Cosmos Big Data platform.
 
-**Optofidelity Ltd.**  
-*Remote Work* <span class="autorightalign">*17 June 2008 – 29 June 2008*</span>  
-*Trainee* <span class="autorightalign">*5 June 2007 – 24 Aug 2007*</span>
+**Optofidelity Ltd.**
+{: class="noskip"}
 
-**Nokia Research Center**  
-*Trainee* <span class="autorightalign">*26 June 2006 – 28 July 2006*</span>  
-*Trainee* <span class="autorightalign">*1 Sept 2004 – 31 May 2006*</span>
+|||
+|:--|--:|
+|*Remote Work*|*17 June 2008 – 29 June 2008*|
+|*Trainee*|*5 June 2007 – 24 Aug 2007*|
+{: class="nohead"}
+
+**Nokia Research Center**
+{: class="noskip"}
+
+|||
+|:--|--:|
+|*Trainee*|*26 June 2006 – 28 July 2006*|
+|*Trainee*|*1 Sept 2004 – 31 May 2006*|
+{: class="nohead"}
 
 ## Education
 
-**Aalto University**, Department of Computer Science  
-*Doctor of Science* <span class="autorightalign">*Sept 2013 – Jan 2018 (expected)*</span>  
-*Master of Science* <span class="autorightalign">*Sept 2011 – Aug 2013*</span>
+**Aalto University**, Department of Computer Science
+{: class="noskip"}
 
-**Helsinki University**, Department of Computer Science  
-*Bachelor of Science* <span class="autorightalign">*Sept 2007 – Apr 2011*</span>
+|||
+|:--|--:|
+|*Doctor of Science*|*Sept 2013 – Jan 2018 (expected)*|
+|*Master of Science*|*Sept 2011 – Aug 2013*|
+{: class="nohead"}
+
+**Helsinki University**, Department of Computer Science
+{: class="noskip"}
+
+|||
+|:--|--:|
+|*Bachelor of Science*|*Sept 2007 – Apr 2011*|
+{: class="nohead"}
 
 ## Publications
 
@@ -111,7 +141,7 @@ In BYTECODE 2011.
 
 ## Talks
 
-*Minimization of Symbolic Transducers*. Talk at Computer Aided Verification: 29th International Conference (CAV 2017), Heidelberg, Germany.{% include sidenote content="Recording available at <https://youtu.be/0IL60qJEKLU>" %}
+*Minimization of Symbolic Transducers*. Talk at Computer Aided Verification: 29th International Conference (CAV 2017), Heidelberg, Germany. Recording available at <https://youtu.be/0IL60qJEKLU>.
 
 *Fusing Effectful Comprehensions*. Talk at the 38th ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI 2017), Barcelona, Spain.
 

@@ -1,0 +1,102 @@
+---
+---
+
+@charset "UTF-8";
+
+@import "normalize.css";
+
+html {
+    font-size: 16px;
+}
+
+body {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 1rem;
+    font-family: Calibri, sans-serif;
+    line-height: 1.3rem;
+    background-color: white;
+    color: #040F0F;
+    max-width: 600px;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    font-size: 2.5rem;
+    margin-top: 2.5rem;
+    margin-bottom: 0;
+    line-height: 2.5rem;
+}
+
+.title {
+    margin: 0;
+    font-size: 2.5rem;
+}
+
+.profile {
+    height: 5rem;
+    width: 5rem;
+    margin-right: 1rem;
+    border-radius: 50%;
+}
+       
+h1, h2, h3 {
+    font-family: 'Calibri Light', sans-serif;
+    font-weight: normal;
+}
+
+$default-sep: 1.4rem;
+       
+h1 {
+    font-size: 2.2rem;
+    line-height: 2.2rem;
+    margin-top: 2.2rem;
+    margin-bottom: $default-sep;
+}
+
+h2 {
+    font-size: 1.8rem;
+    line-height: 1.8rem;
+    margin-top: 1.8rem;
+    margin-bottom: $default-sep;
+}
+
+h3 {
+    font-size: 1.4rem;
+    line-height: 1.4rem;
+    margin-top: 1.4rem;
+    margin-bottom: $default-sep;
+}
+
+section {
+    padding-bottom: 1rem;
+    clear: both;
+}
+
+p {
+    margin-bottom: $default-sep;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+a {
+    color: #9B3928;
+    text-decoration: none;
+}
+
+a:hover, a:focus {
+    color: #053333;
+}
+
+.nohead thead {
+    display: none;
+}
+
+.noskip {
+    margin-bottom: 0;
+}

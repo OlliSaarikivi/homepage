@@ -4,14 +4,20 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="{{ 'style.css' | relative_url }}">
+{% if page.url == "/" %}
+<title>{{ site.title }}</title>
+{% else %}
+<title>{{ site.title }} / {{ page.title }}</title>
+{% endif %}
 </head>
 <body>
-<section>
+<section class="header">
 <img class="profile" src="/profile.jpg">
-<h1>{{ site.title }}</h1>
-<ul class="navigation">{% assign menudocs = site.pages | where: "category", "menu" | sort: "order" %}{% for doc in menudocs %}
-{% if page.url == doc.url %}<li><em>{{ doc.title }}</em></li>{% else %}<li><a href="{{ doc.url }}">{{ doc.title }}</a></li>{% endif %}{% endfor %}
-</ul>
+<h1 class="title">{% if page.url == "/" %}
+{{ site.title }}
+{% else %}
+<a href="/">{{ site.title }}</a> / {{ page.title }}
+{% endif %}</h1>
 </section>
 <section>
 {{ content }}</section>
