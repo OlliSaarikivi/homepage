@@ -55,8 +55,8 @@ Developed frontend, backend and optimizations for a stream comprehension compile
 
 |||
 |:--|--:|
-|*Doctor of Science*|*Sept 2013 – Jan 2018 (expected)*|
-|*Master of Science*|*Sept 2011 – Aug 2013*|
+|*Doctor of Science (Technology)*|*Sept 2013 – Jan 2018 (expected)*|
+|*Master of Science (Technology)*|*Sept 2011 – Aug 2013*|
 {: class="nohead"}
 
 **Helsinki University**, Department of Computer Science
