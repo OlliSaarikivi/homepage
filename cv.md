@@ -83,7 +83,7 @@ Developed a verification tool for C programs on LLVM and participated in SV-COMP
 
 Meghan Cowan, Saeed Maleki, Madanlal Musuvathi, **Olli Saarikivi**, Yifan Xiong.
 *GC3: An Optimizing Compiler for GPU Collective Communication*.
-[arXiv](https://arxiv.org/pdf/2201.11840.pdf)
+[arXiv](https://arxiv.org/abs/2201.11840.pdf)
 
 Madanlal Musuvathi, Kim Laine, Kristin Lauter, Hao Chen, **Olli Saarikivi**, Saeed Maleki, Roshan Dathathri, Todd Mytkowicz.
 *Homomorphic Evaluation of Tensor Programs*
@@ -97,29 +97,29 @@ WAHC 2021.
 
 Aashaka Shah, Vijay Chidambaram, Meghan Cowan, Saeed Maleki, Madan Musuvathi, Todd Mytkowicz, Jacob Nelson, **Olli Saarikivi**, Rachee Singh.
 *Synthesizing Collective Communication Algorithms for Heterogeneous Networks with TACCL*.
-[arXiv](https://arxiv.org/pdf/2111.04867)
+[arXiv](https://arxiv.org/abs/2111.04867)
 
 Abhinav Jangda, Jun Huang, Guodong Liu, Amir Hossein Nodehi Sabet, Saeed Maleki, Youshan Miao, Madanlal Musuvathi, Todd Mytkowicz, **Olli Sarikivi**.
 *Breaking the Computation and Communication Abstraction Barrier in Distributed Machine Learning Workloads*.
-[arXiv](https://arxiv.org/pdf/2105.05720)
+[arXiv](https://arxiv.org/abs/2105.05720)
 
 Gurbinder Gill, Roshan Dathathri, Saeed Maleki, Madan Musuvathi, Todd Mytkowicz, **Olli Saarikivi**.
 *Distributed Training of Embeddings Using Graph Analytics*.
 IPDPS 2021.
 [DOI](https://doi.org/10.1109/IPDPS49936.2021.00106)
-[arXiv](https://arxiv.org/pdf/1909.03359.pdf)
+[arXiv](https://arxiv.org/abs/1909.03359.pdf)
 
 Saeed Maleki, Madan Musuvathi, Todd Mytkowicz, **Olli Saarikivi**, Tianju Xu, Vadim Eksarevskiy, Jaliya Ekanayake, Emad Barsoum.
 *Scaling Distributed Training with Adaptive Summation*.
 MLSys 2021.
 [PDF](/Scaling_Distributed_Training_with_Adaptive_Summation.pdf)
-[arXiv](https://arxiv.org/pdf/2006.02924)
+[arXiv](https://arxiv.org/abs/2006.02924)
 
 Zixian Cai, Zhengyang Liu, Saeed Maleki, Madanlal Musuvathi, Todd Mytkowicz, Jacob Nelson, **Olli Saarikivi**.
 *Synthesizing Optimal Collective Algorithms*.
 PPoPP 2021.
 [DOI](https://doi.org/10.1145/3437801.3441620)
-[arXiv](https://arxiv.org/pdf/2008.08708)
+[arXiv](https://arxiv.org/abs/2008.08708)
 
 Lenka Turoňová, Lukáš Holík, Ondřej Lengál, **Olli Saarikivi**, Margus Veanes, Tomáš Vojnar.
 *Regex Matching with Counting-Set Automata*.
@@ -135,13 +135,13 @@ Lukáš Holík, Ondřej Lengál, **Olli Saarikivi**, Lenka Turoňová, Margus Ve
 *Succinct Determinisation of Counting Automata via Sphere Construction*.
 APLAS 2019.
 [DOI](https://doi.org/10.1007/978-3-030-34175-6_24)
-[arXiv](https://arxiv.org/pdf/1910.01996)
+[arXiv](https://arxiv.org/abs/1910.01996)
 
 Roshan Dathathri, **Olli Saarikivi**, Hao Chen, Kim Laine, Kristin Lauter, Saeed Maleki, Madanlal Musuvathi, Todd Mytkowicz.
 *CHET: An Optimizing Compiler for Fully-Homomorphic Neural-Network Inferencing*.
 PLDI 2019.
 [DOI](https://doi.org/10.1145/3314221.3314628)
-[arXiv](https://arxiv.org/pdf/1810.00845)
+[arXiv](https://arxiv.org/abs/1810.00845)
 
 Olli Saarikivi, Margus Veanes, Tiki Wan, Eric Xu.
 *Symbolic regex matcher*.
