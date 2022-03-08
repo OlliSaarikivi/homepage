@@ -67,7 +67,7 @@ Developed a verification tool for C programs on LLVM and participated in SV-COMP
 
 |||
 |:--|--:|
-|*Doctor of Science (Technology)*|*Sept 2013 – Jan 2018 (expected)*|
+|*Doctor of Science (Technology)*|*Sept 2013 – Mar 2018*|
 |*Master of Science (Technology)*|*Sept 2011 – Aug 2013*|
 {: class="nohead"}
 
