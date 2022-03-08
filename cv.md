@@ -17,7 +17,7 @@ permalink: /cv/
 |*Research Intern*|*2 Feb 2015 - 8 May 2015*|
 {: class="nohead"}
 
-Developing a user-programmable collective communication library for GPUs with support for automatically synthesizing novel algorithms.
+Developing a user-programmable collective communication library for GPUs. Creating synthesizers to discover novel algorithms for modern GPU systems.
 
 Building a guaranteed-linear-time regex matching engine for .NET 7. This will be the first major deployment of regular expression derivatives.
 
