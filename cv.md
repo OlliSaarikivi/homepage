@@ -23,10 +23,9 @@ Building a guaranteed-linear-time regex matching engine for .NET 7. This will be
 
 Developed a novel gradient aggregation technique for massively distributed ML training and contributed it to Uber's Horovod training library.
 
-Lead the CHET/EVA projects to build a compilers for neural networks on homomorphic encryption.
+Lead the CHET/EVA projects to make homomorphic encryption accessible to non-cryptographers with compilers and better tooling.
 
 Developed frontend, backend and optimizations for a stream comprehension compiler.
-
 Improved pattern matching code generation in the SCOPE query language for the Cosmos Big Data platform.
 
 **Aalto University**, Department of Computer Science
@@ -42,8 +41,6 @@ Improved pattern matching code generation in the SCOPE query language for the Co
 Extended a Java dynamic symbolic execution tool to support multi-threaded programs.
 
 Developed a verification tool for C programs on LLVM and participated in SV-COMP.
-
-Provided teaching assistance for CS-E4110 Concurrent Programming in 2013–2017 and ICS-A1120 Programming 2 in 2014.
 
 **Optofidelity Ltd.**
 {: class="noskip"}
@@ -84,50 +81,117 @@ Provided teaching assistance for CS-E4110 Concurrent Programming in 2013–2017 
 
 ## Publications
 
+Meghan Cowan, Saeed Maleki, Madanlal Musuvathi, **Olli Saarikivi**, Yifan Xiong.
+*GC3: An Optimizing Compiler for GPU Collective Communication*.
+[arXiv](https://arxiv.org/pdf/2201.11840.pdf)
+
+Madanlal Musuvathi, Kim Laine, Kristin Lauter, Hao Chen, **Olli Saarikivi**, Saeed Maleki, Roshan Dathathri, Todd Mytkowicz.
+*Homomorphic Evaluation of Tensor Programs*
+US Patent 11,177,935, 2021.
+[Google Patents](https://patents.google.com/patent/US11177935B2/en)
+
+Sangeeta Chowdhary, Wei Dai, Kim Laine, **Olli Saarikivi**.
+*EVA Improved: Compiler and Extension Library for CKKS*.
+WAHC 2021.
+[DOI](https://doi.org/10.1145/3474366.3486929)
+
+Aashaka Shah, Vijay Chidambaram, Meghan Cowan, Saeed Maleki, Madan Musuvathi, Todd Mytkowicz, Jacob Nelson, **Olli Saarikivi**, Rachee Singh.
+*Synthesizing Collective Communication Algorithms for Heterogeneous Networks with TACCL*.
+[arXiv](https://arxiv.org/pdf/2111.04867)
+
+Abhinav Jangda, Jun Huang, Guodong Liu, Amir Hossein Nodehi Sabet, Saeed Maleki, Youshan Miao, Madanlal Musuvathi, Todd Mytkowicz, **Olli Sarikivi**.
+*Breaking the Computation and Communication Abstraction Barrier in Distributed Machine Learning Workloads*.
+[arXiv](https://arxiv.org/pdf/2105.05720)
+
+Gurbinder Gill, Roshan Dathathri, Saeed Maleki, Madan Musuvathi, Todd Mytkowicz, **Olli Saarikivi**.
+*Distributed Training of Embeddings Using Graph Analytics*.
+IPDPS 2021.
+[DOI](https://doi.org/10.1109/IPDPS49936.2021.00106)
+[arXiv](https://arxiv.org/pdf/1909.03359.pdf)
+
+Saeed Maleki, Madan Musuvathi, Todd Mytkowicz, **Olli Saarikivi**, Tianju Xu, Vadim Eksarevskiy, Jaliya Ekanayake, Emad Barsoum.
+*Scaling Distributed Training with Adaptive Summation*.
+MLSys 2021.
+[PDF](/Scaling_Distributed_Training_with_Adaptive_Summation.pdf)
+[arXiv](https://arxiv.org/pdf/2006.02924)
+
+Zixian Cai, Zhengyang Liu, Saeed Maleki, Madanlal Musuvathi, Todd Mytkowicz, Jacob Nelson, **Olli Saarikivi**.
+*Synthesizing Optimal Collective Algorithms*.
+PPoPP 2021.
+[DOI](https://doi.org/10.1145/3437801.3441620)
+[arXiv](https://arxiv.org/pdf/2008.08708)
+
+Lenka Turoňová, Lukáš Holík, Ondřej Lengál, **Olli Saarikivi**, Margus Veanes, Tomáš Vojnar.
+*Regex Matching with Counting-Set Automata*.
+OOPSLA 2020.
+[DOI](https://doi.org/10.1145/3428286)
+
+Roshan Dathathri, Blagovesta Kostova, **Olli Saarikivi**, Wei Dai, Kim Laine, Madan Musuvathi.
+*EVA: An Encrypted Vector Arithmetic Language and Compiler for Efficient Homomorphic Computation*.
+PLDI 2020.
+[DOI](https://doi.org/10.1145/3385412.3386023)
+
+Lukáš Holík, Ondřej Lengál, **Olli Saarikivi**, Lenka Turoňová, Margus Veanes, Tomáš Vojnar.
+*Succinct Determinisation of Counting Automata via Sphere Construction*.
+APLAS 2019.
+[DOI](https://doi.org/10.1007/978-3-030-34175-6_24)
+[arXiv](https://arxiv.org/pdf/1910.01996)
+
+Roshan Dathathri, **Olli Saarikivi**, Hao Chen, Kim Laine, Kristin Lauter, Saeed Maleki, Madanlal Musuvathi, Todd Mytkowicz.
+*CHET: An Optimizing Compiler for Fully-Homomorphic Neural-Network Inferencing*.
+PLDI 2019.
+[DOI](https://doi.org/10.1145/3314221.3314628)
+[arXiv](https://arxiv.org/pdf/1810.00845)
+
+Olli Saarikivi, Margus Veanes, Tiki Wan, Eric Xu.
+*Symbolic regex matcher*.
+TACAS 2019.
+[DOI](https://doi.org/10.1007/978-3-030-17462-0_24)
+
 **Olli Saarikivi**, Margus Veanes.
 *Minimization of Symbolic Transducers*.
-In CAV 2017.
-[doi:10.1007/978-3-319-63390-9_10](https://doi.org/10.1007/978-3-319-63390-9_10)
+CAV 2017.
+[DOI](https://doi.org/10.1007/978-3-319-63390-9_10)
 
 **Olli Saarikivi**, Margus Veanes, Todd Mytkowicz, Madan Musuvathi.
 *Fusing Effectful Comprehensions*.
-In PLDI 2017.
-[doi:10.1145/3062341.3062362](https://doi.org/10.1145/3062341.3062362)
+PLDI 2017.
+[DOI](https://doi.org/10.1145/3062341.3062362)
 
 **Olli Saarikivi**, Margus Veanes.
 *Translating C# to Branching Symbolic Transducers*.
-In LPAR 2017 Short Presentations.
+LPAR 2017 Short Presentations.
 [PDF](/Translating_C_to_Branching_Symbolic_Transducers.pdf)
 
 **Olli Saarikivi**, Hernán Ponce de León, Kari Kähkönen, Keijo Heljanko, Javier Esparza.
 *Minimizing Test Suites with Unfoldings of Multithreaded Programs*.
 TECS 16(2), 2017.
-[doi:10.1145/3012281](https://doi.org/10.1145/3012281)
+[DOI](https://doi.org/10.1145/3012281)
 
 **Olli Saarikivi**, Keijo Heljanko.
 *LCTD: Tests-guided proofs for C programs on LLVM (competition contribution)*.
-In TACAS 2016.
-[doi:10.1007/978-3-662-49674-9_62](https://doi.org/10.1007/978-3-662-49674-9_62)
+TACAS 2016.
+[DOI](https://doi.org/10.1007/978-3-662-49674-9_62)
 
 **Olli Saarikivi**, Keijo Heljanko.
 *LCTD: Test-guided proofs for C programs on LLVM*.
 JLAMP 85(6), 2016.
-[doi:10.1016/j.jlamp.2015.10.010](https://doi.org/10.1016/j.jlamp.2015.10.010)
+[DOI](https://doi.org/10.1016/j.jlamp.2015.10.010)
 
 Kari Kähkönen, **Olli Saarikivi**, Keijo Heljanko.
 *Unfolding based automated testing of multithreaded programs*.
 ASE 22(4), 2015.
-[doi:10.1007/s10515-014-0150-6](https://doi.org/10.1007/s10515-014-0150-6)
+[DOI](https://doi.org/10.1007/s10515-014-0150-6)
 
 Hernán Ponce de León, **Olli Saarikivi**, Kari Kähkönen, Keijo Heljanko, Javier Esparza.
 *Unfolding based minimal test suites for testing multithreaded programs*.
-In ACSD 2015.
-[doi:10.1109/ACSD.2015.12](https://doi.org/10.1109/ACSD.2015.12)
+ACSD 2015.
+[DOI](https://doi.org/10.1109/ACSD.2015.12)
 
 **Olli Saarikivi**, Keijo Heljanko.
 *Reporting races in dynamic partial order reduction*.
-In NFM 2015.
-[doi:10.1007/978-3-319-17524-9_35](https://doi.org/10.1007/978-3-319-17524-9_35)
+NFM 2015.
+[DOI](https://doi.org/10.1007/978-3-319-17524-9_35)
 
 **Olli Saarikivi**.
 *Test-Guided Proofs for C Programs on LLVM*.
@@ -136,22 +200,22 @@ Master's Thesis, Aalto University, Finland, 2013.
 
 Kari Kähkönen, **Olli Saarikivi**, Keijo Heljanko.
 *LCT: A parallel distributed testing tool for multithreaded Java programs*.
-In PDMC 2012.
-[doi:10.1016/j.entcs.2013.09.002](https://doi.org/10.1016/j.entcs.2013.09.002)
+PDMC 2012.
+[DOI](https://doi.org/10.1016/j.entcs.2013.09.002)
 
 Kari Kähkönen, **Olli Saarikivi**, Keijo Heljanko.
 *Using unfoldings in automated testing of multithreaded programs*.
-In ASE 2012.
-[doi:10.1145/2351676.2351698](https://doi.org/10.1145/2351676.2351698)
+ASE 2012.
+[DOI](https://doi.org/10.1145/2351676.2351698)
 
 **Olli Saarikivi**, Kari Kähkönen, Keijo Heljanko.
 *Improving dynamic partial order reductions for concolic testing*.
-In ACSD 2012.
-[doi:10.1109/ACSD.2012.18](https://doi.org/10.1109/ACSD.2012.18)
+ACSD 2012.
+[DOI](https://doi.org/10.1109/ACSD.2012.18)
 
 Kari Kähkönen, Tuomas Launiainen, **Olli Saarikivi**, Janne Kauttio, Keijo Heljanko, Ilkka Niemelä.
 *LCT: An open source concolic testing tool for Java programs*.
-In BYTECODE 2011.
+BYTECODE 2011.
 [PDF](/LCT_An_Open_Source_Concolic_Testing_Tool_for_Java_Programs.pdf)
 
 ## Talks
