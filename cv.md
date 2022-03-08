@@ -7,28 +7,43 @@ permalink: /cv/
 
 ## Experience
 
-**Aalto University**, Department of Computer Science
-{: class="noskip"}
-
-|||
-|:--|--:|
-|*Doctoral Student*|*1 Sept 2013 – present*|
-|*Research Assistant*|*1 June 2010 – 31 Aug 2013*|
-|*Research Assistant*|*1 June 2009 – 31 Aug 2009*|
-{: class="nohead"}
-
-Extended a Java dynamic symbolic execution tool to support multi-threaded programs. Developed a verification tool for C programs on LLVM and participated in SV-COMP. Provided teaching assistance for CS-E4110 Concurrent Programming in 2013–2017 and ICS-A1120 Programming 2 in 2014.
-
 **Microsoft Research**, Redmond, USA
 {: class="noskip"}
 
 |||
 |:--|--:|
+|*Senior Researcher*|*2 Apr 2018 - present*|
 |*Research Intern*|*6 June 2016 - 9 Sept 2016*|
 |*Research Intern*|*2 Feb 2015 - 8 May 2015*|
 {: class="nohead"}
 
-Developed frontend, backend and optimizations for a stream comprehension compiler. Improved pattern matching code generation in the SCOPE query language for the Cosmos Big Data platform.
+Developing a user-programmable collective communication library for GPUs with support for automatically synthesizing novel algorithms.
+
+Building a guaranteed-linear-time regex matching engine for .NET 7. This will be the first major deployment of regular expression derivatives.
+
+Developed a novel gradient aggregation technique for massively distributed ML training and contributed it to Uber's Horovod training library.
+
+Lead the CHET/EVA projects to build a compilers for neural networks on homomorphic encryption.
+
+Developed frontend, backend and optimizations for a stream comprehension compiler.
+
+Improved pattern matching code generation in the SCOPE query language for the Cosmos Big Data platform.
+
+**Aalto University**, Department of Computer Science
+{: class="noskip"}
+
+|||
+|:--|--:|
+|*Doctoral Student*|*1 Sept 2013 – 31 Mar 2018*|
+|*Research Assistant*|*1 June 2010 – 31 Aug 2013*|
+|*Research Assistant*|*1 June 2009 – 31 Aug 2009*|
+{: class="nohead"}
+
+Extended a Java dynamic symbolic execution tool to support multi-threaded programs.
+
+Developed a verification tool for C programs on LLVM and participated in SV-COMP.
+
+Provided teaching assistance for CS-E4110 Concurrent Programming in 2013–2017 and ICS-A1120 Programming 2 in 2014.
 
 **Optofidelity Ltd.**
 {: class="noskip"}
