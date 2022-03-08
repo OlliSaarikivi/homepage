@@ -217,27 +217,3 @@ Kari Kähkönen, Tuomas Launiainen, **Olli Saarikivi**, Janne Kauttio, Keijo Hel
 *LCT: An open source concolic testing tool for Java programs*.
 BYTECODE 2011.
 [PDF](/LCT_An_Open_Source_Concolic_Testing_Tool_for_Java_Programs.pdf)
-
-## Talks
-
-*Minimization of Symbolic Transducers*. Talk at Computer Aided Verification: 29th International Conference (CAV 2017), Heidelberg, Germany. Recording available at <https://youtu.be/0IL60qJEKLU>.
-
-*Fusing Effectful Comprehensions*. Talk at the 38th ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI 2017), Barcelona, Spain.
-
-*Translating C # to Branching Symbolic Transducers*. Talk at the 21st International Conference on Logic for Programming Artificial Intelligence and Reasoning (LPAR 2017), Maun, Botswana.
-
-*LCTD: Tests-guided proofs for C programs on LLVM (competition contribution)*. Talk at Tools and Algorithms for the Construction and Analysis of Systems: 22nd International Conference (TACAS 2016), Eindhoven, The Netherlands.
-
-*LCT-D: Test-Guided Proofs for C Programs on LLVM*. Talk at the 25th Nordic Workshop on Programming Theory (NWPT 2013), Tallinn, Estonia.
-
-*Improving Dynamic Partial Order Reductions for Concolic Testing*. Talk at the 12th International Conference on Application of Concurrency to System Design (ACSD 2012), Hamburg, Germany.
-
-## Summer Schools
-
-11th LASER Summer School on Software Engineering (LASER 2014).
-
-SAT/SMT Summer School 2014.
-
-4th Halmstad Summer School on Testing (HSST 2014).
-
-Summer School Marktoberdorf 2013 (MOD 2013) on software systems safety.
