@@ -18,7 +18,7 @@ permalink: /cv/
 |*Research Intern*|*2 Feb 2015 - 8 May 2015*|
 {: class="nohead"}
 
-Built MSCCL, a programmable communication library for GPUs, which delivered significant speedups for both internal and a key partner's machine learning workloads. I wrote compilers, lead the language design and built algorithm syntheses.
+Built MSCCL, a programmable communication library for GPUs, which delivered *significant speedups for both internal and a key partner's machine learning workloads*. I wrote compilers, lead the language design and built algorithm syntheses.
 
 Designed a novel derivatives-based regex matcher and shipped it as *the first guaranteed-linear-time engine* in .NET 7. Partnered with CredScan to help them achieve *a double digit end-to-end throughput improvement*.
 
