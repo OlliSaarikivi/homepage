@@ -22,3 +22,5 @@ order: 1
 [Forgotten](https://github.com/OlliSaarikivi/forgotten): a game-turned-research-project on in-memory database techniques for ECSs.
 
 [Reitit](https://github.com/OlliSaarikivi/reitit): the most popular app for public transit in Helsinki on Windows Phone during the platform's heydays.
+
+[ZZZAP](https://github.com/OlliSaarikivi/zzzap): symbolically executing rewrites to discover efficient symbolic executors.
