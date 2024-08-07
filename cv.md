@@ -93,25 +93,25 @@ Developed a verification tool for C programs on LLVM and participated in SV-COMP
 
 ## Publications
 
-Marah I Abdin, Sam Ade Jacobs, Ammar Ahmad Awan, Jyoti Aneja, Ahmed Awadallah, Hany Awadalla, Nguyen Bach, Amit Bahree, Arash Bakhtiari, Harkirat S. Behl, Alon Benhaim, Misha Bilenko, Johan Bjorck, Sébastien Bubeck, Martin Cai, Caio César Teodoro Mendes, Weizhu Chen, Vishrav Chaudhary, Parul Chopra, Allie Del Giorno, Gustavo de Rosa, Matthew Dixon, Ronen Eldan, Dan Iter, Amit Garg, Abhishek Goswami, Suriya Gunasekar, Emman Haider, Junheng Hao, Russell J. Hewett, Jamie Huynh, Mojan Javaheripi, Xin Jin, Piero Kauffmann, Nikos Karampatziakis, Dongwoo Kim, Mahoud Khademi, Lev Kurilenko, James R. Lee, Yin Tat Lee, Yuanzhi Li, Chen Liang, Weishung Liu, Eric Lin, Zeqi Lin, Piyush Madan, Arindam Mitra, Hardik Modi, Anh Nguyen, Brandon Norick, Barun Patra, Daniel Perez-Becker, Thomas Portet, Reid Pryzant, Heyang Qin, Marko Radmilac, Corby Rosset, Sambudha Roy, Olatunji Ruwase, **Olli Saarikivi**, Amin Saied, Adil Salim, Michael Santacroce, Shital Shah, Ning Shang, Hiteshi Sharma, Xia Song, Masahiro Tanaka, Xin Wang, Rachel Ward, Guanhua Wang, Philipp Witte, Michael Wyatt, Can Xu, Jiahang Xu, Sonali Yadav, Fan Yang, Ziyi Yang, Donghan Yu, Chengruidong Zhang, Cyril Zhang, Jianwen Zhang, Li Lyna Zhang, Yi Zhang, Yue Zhang, Yunan Zhang, Xiren Zhou.
+Marah Abdin, Sam Jacobs, Ammar Awan, Jyoti Aneja, Ahmed Awadallah, Hany Awadalla, Nguyen Bach, Amit Bahree, Arash Bakhtiari, Harkirat Behl, Alon Benhaim, Misha Bilenko, Johan Bjorck, Sébastien Bubeck, Martin Cai, Caio Teodoro Mendes, Weizhu Chen, Vishrav Chaudhary, Parul Chopra, Allie Del Giorno, Gustavo de Rosa, Matthew Dixon, Ronen Eldan, Dan Iter, Amit Garg, Abhishek Goswami, Suriya Gunasekar, Emman Haider, Junheng Hao, Russell Hewett, Jamie Huynh, Mojan Javaheripi, Xin Jin, Piero Kauffmann, Nikos Karampatziakis, Dongwoo Kim, Mahoud Khademi, Lev Kurilenko, James Lee, Yin Tat Lee, Yuanzhi Li, Chen Liang, Weishung Liu, Eric Lin, Zeqi Lin, Piyush Madan, Arindam Mitra, Hardik Modi, Anh Nguyen, Brandon Norick, Barun Patra, Daniel Perez-Becker, Thomas Portet, Reid Pryzant, Heyang Qin, Marko Radmilac, Corby Rosset, Sambudha Roy, Olatunji Ruwase, **Olli Saarikivi**, Amin Saied, Adil Salim, Michael Santacroce, Shital Shah, Ning Shang, Hiteshi Sharma, Xia Song, Masahiro Tanaka, Xin Wang, Rachel Ward, Guanhua Wang, Philipp Witte, Michael Wyatt, Can Xu, Jiahang Xu, Sonali Yadav, Fan Yang, Ziyi Yang, Donghan Yu, Chengruidong Zhang, Cyril Zhang, Jianwen Zhang, Li Lyna Zhang, Yi Zhang, Yue Zhang, Yunan Zhang, Xiren Zhou.
 *Phi-3 technical report: a highly capable language model locally on your phone*.
-Whitepaper.
+Whitepaper, 2024.
 [arXiv](https://arxiv.org/abs/2404.14219)
 
 Suriya Gunasekar, Yi Zhang, Jyoti Aneja, Caio César Teodoro Mendes, Allie Del Giorno, Sivakanth Gopi, Mojan Javaheripi, Piero Kauffmann, Gustavo de Rosa, **Olli Saarikivi**, Adil Salim, Shital Shah, Harkirat Singh Behl, Xin Wang, Sébastien Bubeck, Ronen Eldan, Adam Tauman Kalai, Yin Tat Lee, Yuanzhi Li.
 *Textbooks are all you need*.
-Whitepaper.
+Whitepaper, 2023.
 [arXiv](https://arxiv.org/abs/2306.11644)
 
 Margus Veanes, Thomas Ball, Gabriel Ebner, **Olli Saarikivi**.
 *Symbolic automata: ω-regularity modulo theories*.
-Preprint.
+Preprint, 2023.
 [arXiv](https://arxiv.org/abs/2310.02393)
 
-Dan Moseley, Mario Nishio, Jose Perez Rodriguez, **Olli Saarikivi**, Stephen Toub, Margus Veanes, Tiki Wan, Eric Xu.
-*Derivative based nonbacktracking real-world regex matching with backtracking semantics*.
-PLDI 2023.
-[DOI](https://doi.org/10.1145/3591262)
+**Olli Saarikivi**, Margus Veanes, Stephen Toub, Daniel Moseley, Jose Perez Rodriguez
+*Finite automaton construction using regular expression derivatives to simulate behavior of a backtracking engine*.
+US Patent 11,983,223, 2024.
+[Google Patents](https://patents.google.com/patent/US11983223B2/en)
 
 Abhinav Jangda, Saeed Maleki, Maryam Mehri Dehnavi, Madan Musuvathi, **Olli Saarikivi**.
 *A framework for fine-grained synchronization of dependent GPU kernels*.
@@ -124,6 +124,11 @@ Zhiqi Lin, Youshan Miao, Guanbin Xu, Cheng Li, **Olli Saarikivi**, Saeed Maleki,
 HPCA 2024.
 [DOI](https://doi.org/10.1109/HPCA57654.2024.00067)
 [arXiv](https://arxiv.org/abs/2311.15269)
+
+Dan Moseley, Mario Nishio, Jose Perez Rodriguez, **Olli Saarikivi**, Stephen Toub, Margus Veanes, Tiki Wan, Eric Xu.
+*Derivative based nonbacktracking real-world regex matching with backtracking semantics*.
+PLDI 2023.
+[DOI](https://doi.org/10.1145/3591262)
 
 Meghan Cowan, Saeed Maleki, Madanlal Musuvathi, **Olli Saarikivi**, Yifan Xiong.
 *MSCCLang: Microsoft collective communication language*.
