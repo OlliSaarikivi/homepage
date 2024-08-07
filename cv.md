@@ -7,16 +7,28 @@ permalink: /cv/
 
 ## Experience
 
+**Microsoft AI**, Redmond, USA
+{: class="noskip"}
+
+|||
+|:--|--:|
+|*Member of Technical Staff*|*22 Jan 2024 - present*|
+{: class="nohead"}
+
+Pretraining team focusing on synthetic data.
+
 **Microsoft Research**, Redmond, USA
 {: class="noskip"}
 
 |||
 |:--|--:|
-|*Senior Researcher*|*18 Sept 2020 - present*|
+|*Senior Researcher*|*18 Sept 2020 - 21 Jan 2024*|
 |*Post Doctoral Researcher*|*2 Apr 2018 - 17 Sept 2020*|
 |*Research Intern*|*6 June 2016 - 9 Sept 2016*|
 |*Research Intern*|*2 Feb 2015 - 8 May 2015*|
 {: class="nohead"}
+
+Joined Sebastien Bubeck's Physics of AGI team mid 2023 to build the Phi small language models. *I worked on synthetic generations and LLM based data filtering, ran ablations, helped organize early coding capabilities efforts, added necessary features to our PyTorch inference stack and worked to ensure our evaluations were uncontaminated.*
 
 Built MSCCL, a programmable communication library for GPUs, which delivered *significant speedups for both internal and a key partner's machine learning workloads*. I wrote compilers, lead the language design and built algorithm syntheses.
 
@@ -81,14 +93,48 @@ Developed a verification tool for C programs on LLVM and participated in SV-COMP
 
 ## Publications
 
+Marah I Abdin, Sam Ade Jacobs, Ammar Ahmad Awan, Jyoti Aneja, Ahmed Awadallah, Hany Awadalla, Nguyen Bach, Amit Bahree, Arash Bakhtiari, Harkirat S. Behl, Alon Benhaim, Misha Bilenko, Johan Bjorck, Sébastien Bubeck, Martin Cai, Caio César Teodoro Mendes, Weizhu Chen, Vishrav Chaudhary, Parul Chopra, Allie Del Giorno, Gustavo de Rosa, Matthew Dixon, Ronen Eldan, Dan Iter, Amit Garg, Abhishek Goswami, Suriya Gunasekar, Emman Haider, Junheng Hao, Russell J. Hewett, Jamie Huynh, Mojan Javaheripi, Xin Jin, Piero Kauffmann, Nikos Karampatziakis, Dongwoo Kim, Mahoud Khademi, Lev Kurilenko, James R. Lee, Yin Tat Lee, Yuanzhi Li, Chen Liang, Weishung Liu, Eric Lin, Zeqi Lin, Piyush Madan, Arindam Mitra, Hardik Modi, Anh Nguyen, Brandon Norick, Barun Patra, Daniel Perez-Becker, Thomas Portet, Reid Pryzant, Heyang Qin, Marko Radmilac, Corby Rosset, Sambudha Roy, Olatunji Ruwase, **Olli Saarikivi**, Amin Saied, Adil Salim, Michael Santacroce, Shital Shah, Ning Shang, Hiteshi Sharma, Xia Song, Masahiro Tanaka, Xin Wang, Rachel Ward, Guanhua Wang, Philipp Witte, Michael Wyatt, Can Xu, Jiahang Xu, Sonali Yadav, Fan Yang, Ziyi Yang, Donghan Yu, Chengruidong Zhang, Cyril Zhang, Jianwen Zhang, Li Lyna Zhang, Yi Zhang, Yue Zhang, Yunan Zhang, Xiren Zhou.
+*Phi-3 technical report: a highly capable language model locally on your phone*.
+Whitepaper.
+[arXiv](https://arxiv.org/abs/2404.14219)
+
+Suriya Gunasekar, Yi Zhang, Jyoti Aneja, Caio César Teodoro Mendes, Allie Del Giorno, Sivakanth Gopi, Mojan Javaheripi, Piero Kauffmann, Gustavo de Rosa, **Olli Saarikivi**, Adil Salim, Shital Shah, Harkirat Singh Behl, Xin Wang, Sébastien Bubeck, Ronen Eldan, Adam Tauman Kalai, Yin Tat Lee, Yuanzhi Li.
+*Textbooks are all you need*.
+Whitepaper.
+[arXiv](https://arxiv.org/abs/2306.11644)
+
+Margus Veanes, Thomas Ball, Gabriel Ebner, **Olli Saarikivi**.
+*Symbolic automata: ω-regularity modulo theories*.
+Preprint.
+[arXiv](https://arxiv.org/abs/2310.02393)
+
+Dan Moseley, Mario Nishio, Jose Perez Rodriguez, **Olli Saarikivi**, Stephen Toub, Margus Veanes, Tiki Wan, Eric Xu.
+*Derivative based nonbacktracking real-world regex matching with backtracking semantics*.
+PLDI 2023.
+[DOI](https://doi.org/10.1145/3591262)
+
+Abhinav Jangda, Saeed Maleki, Maryam Mehri Dehnavi, Madan Musuvathi, **Olli Saarikivi**.
+*A framework for fine-grained synchronization of dependent GPU kernels*.
+CGO 2024.
+[DOI](https://doi.org/10.1109/CGO57630.2024.10444873)
+[arXiv](https://arxiv.org/abs/2305.13450)
+
+Zhiqi Lin, Youshan Miao, Guanbin Xu, Cheng Li, **Olli Saarikivi**, Saeed Maleki, Fan Yang.
+*Tessel: boosting distributed execution of large DNN models via flexible schedule search*.
+HPCA 2024.
+[DOI](https://doi.org/10.1109/HPCA57654.2024.00067)
+[arXiv](https://arxiv.org/abs/2311.15269)
+
 Meghan Cowan, Saeed Maleki, Madanlal Musuvathi, **Olli Saarikivi**, Yifan Xiong.
-*PCCS: programmable collective communication system*.
+*MSCCLang: Microsoft collective communication language*.
 ASPLOS 2023.
-[arXiv](https://arxiv.org/abs/2201.11840.pdf)
+[DOI](https://doi.org/10.1145/3575693.3575724)
+[arXiv](https://arxiv.org/abs/2201.11840)
 
 Aashaka Shah, Vijay Chidambaram, Meghan Cowan, Saeed Maleki, Madan Musuvathi, Todd Mytkowicz, Jacob Nelson, **Olli Saarikivi**, Rachee Singh.
-*TACCL: guiding collective algorithm synthesis using communica¬tion sketches*.
+*TACCL: guiding collective algorithm synthesis using communication sketches*.
 NSDI 2023.
+[USENIX](https://www.usenix.org/conference/nsdi23/presentation/shah)
 [arXiv](https://arxiv.org/abs/2111.04867)
 
 Abhinav Jangda, Jun Huang, Guodong Liu, Amir Hossein Nodehi Sabet, Saeed Maleki, Youshan Miao, Madanlal Musuvathi, Todd Mytkowicz, **Olli Sarikivi**.
