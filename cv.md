@@ -28,19 +28,19 @@ Pretraining team focusing on synthetic data.
 |*Research Intern*|*2 Feb 2015 - 8 May 2015*|
 {: class="nohead"}
 
-Joined Sebastien Bubeck's Physics of AGI team mid 2023 to build the Phi small language models. *I worked on synthetic generations and LLM based data filtering, ran ablations, helped organize early coding capabilities efforts, added necessary features to our PyTorch inference stack and worked to ensure our evaluations were uncontaminated.*
+Joined Sebastien Bubeck’s Physics of AGI team mid 2023 to build the Phi small language models. *I worked on synthetic generations for coding and filtering web data, ran ablations, improved our PyTorch inference stack and worked to ensure our evaluations were uncontaminated.*
 
-Built MSCCL, a programmable communication library for CUDA, which delivered *significant speedups for a key partner's machine learning workloads*. I lead the language design, wrote compilers in Python and MLIR, and built algorithm syntheses with Z3.
+Built MSCCL, a programmable communication library for CUDA delivering *significant speedups to a key partner’s inference workload.* I led language design, wrote compilers in Python and MLIR, and built algorithm syntheses.
 
-Designed a novel derivatives-based regex matcher and shipped it as *the first guaranteed-linear-time engine* in .NET 7. Partnered with CredScan to help them achieve *a double digit end-to-end throughput improvement*.
+Built a novel guaranteed-linear-time regex engine for .NET 7, helping CredScan achieve a double digit end-to-end throughput improvement.
 
-Partnered with AzureML to ship a novel gradient aggregation technique for massively distributed ML training into Uber’s Horovod training library.
+Shipped a novel gradient aggregation technique for distributed training in Uber’s Horovod library.
 
-Lead the CHET/EVA compiler projects to make homomorphic encryption accessible to non-experts.
+Led the CHET/EVA compiler projects to simplify homomorphic encryption for non-experts.
 
-Developed a stream comprehension compiler and adapted the approach to improve query compilation in the SCOPE language.
+Developed an improved stream query compiler to improve query compilation in the SCOPE language.
 
-**Aalto University**, Espoo, Finland
+**Aalto University**, Finland
 {: class="noskip"}
 
 |||
@@ -50,10 +50,15 @@ Developed a stream comprehension compiler and adapted the approach to improve qu
 |*Research Assistant*|*1 June 2009 – 31 Aug 2009*|
 {: class="nohead"}
 
-Extended a Java dynamic symbolic execution tool to support multi-threaded programs.
+Developed Java and LLVM based verification tools.
 
-Developed a verification tool for C programs on LLVM and participated in SV-COMP.
+|||
+|:--|--:|
+|**Optofidelity Ltd.**, Finland|*Trainee, 2007*|
+|**Nokia Research Center**, Finland|*Trainee, 2006*|
+{: class="nohead"}
 
+<!--
 **Optofidelity Ltd.**
 {: class="noskip"}
 
@@ -71,6 +76,7 @@ Developed a verification tool for C programs on LLVM and participated in SV-COMP
 |*Trainee*|*26 June 2006 – 28 July 2006*|
 |*Trainee*|*1 Sept 2004 – 31 May 2006*|
 {: class="nohead"}
+-->
 
 ## Education
 
