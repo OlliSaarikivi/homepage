@@ -30,7 +30,7 @@ Pretraining team focusing on synthetic data.
 
 Joined Sebastien Bubeck's Physics of AGI team mid 2023 to build the Phi small language models. *I worked on synthetic generations and LLM based data filtering, ran ablations, helped organize early coding capabilities efforts, added necessary features to our PyTorch inference stack and worked to ensure our evaluations were uncontaminated.*
 
-Built MSCCL, a programmable communication library for GPUs, which delivered *significant speedups for both internal and a key partner's machine learning workloads*. I wrote compilers, lead the language design and built algorithm syntheses.
+Built MSCCL, a programmable communication library for CUDA, which delivered *significant speedups for a key partner's machine learning workloads*. I lead the language design, wrote compilers in Python and MLIR, and built algorithm syntheses with Z3.
 
 Designed a novel derivatives-based regex matcher and shipped it as *the first guaranteed-linear-time engine* in .NET 7. Partnered with CredScan to help them achieve *a double digit end-to-end throughput improvement*.
 
