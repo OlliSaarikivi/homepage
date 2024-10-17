@@ -7,26 +7,19 @@ permalink: /cv/
 
 ## Experience
 
-**Microsoft AI**, Redmond, USA
+**Microsoft**, USA
 {: class="noskip"}
 
 |||
 |:--|--:|
 |*Member of Technical Staff*|*22 Jan 2024 - present*|
-{: class="nohead"}
-
-Pretraining team focusing on synthetic data.
-
-**Microsoft Research**, Redmond, USA
-{: class="noskip"}
-
-|||
-|:--|--:|
 |*Senior Researcher*|*18 Sept 2020 - 21 Jan 2024*|
 |*Post Doctoral Researcher*|*2 Apr 2018 - 17 Sept 2020*|
 |*Research Intern*|*6 June 2016 - 9 Sept 2016*|
 |*Research Intern*|*2 Feb 2015 - 8 May 2015*|
 {: class="nohead"}
+
+Lead synthetic data generation tool development at Microsoft AI’s pretraining team and built generations for improved reasoning capabilities.
 
 Joined Sebastien Bubeck’s Physics of AGI team mid 2023 to build the Phi small language models. *I worked on synthetic generations for coding and filtering web data, ran ablations, improved our PyTorch inference stack and worked to ensure our evaluations were uncontaminated.*
 
