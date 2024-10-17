@@ -29,7 +29,7 @@ Built a novel guaranteed-linear-time regex engine for .NET 7, helping CredScan a
 
 Shipped a novel gradient aggregation technique for distributed training in Uber’s Horovod library.
 
-Led the CHET/EVA compiler projects to simplify homomorphic encryption for non-experts.
+Led the CHET/EVA compiler projects to simplify using homomorphic encryption for machine learning.
 
 Developed an improved stream query compiler to improve query compilation in the SCOPE language.
 
