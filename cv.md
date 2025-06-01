@@ -15,7 +15,7 @@ permalink: /cv/
 |*Machine Learning Researcher*|*28 Apr 2025 - present*|
 {: class="nohead"}
 
-Reasoning and synthetic data on the Foundation Models team.
+Reasoning capabilities and synthetic data generation on the Foundation Models team.
 
 **Microsoft**, USA
 {: class="noskip"}
@@ -29,21 +29,18 @@ Reasoning and synthetic data on the Foundation Models team.
 |*Research Intern*|*2 Feb 2015 - 8 May 2015*|
 {: class="nohead"}
 
-Distilled o3-mini into phi-4-reasoning with some amazing collaborators. *I worked on curating high-quality seeds, designing synthetic generations and running ablations for STEM and coding.*
+Distilled phi-4-reasoning from an OpenAI reasoning model with some amazing collaborators. I curated high-quality seeds, designed synthetic generations and ran ablations for STEM and coding.
 
 Lead synthetic data generation tool development at Microsoft AI’s pretraining team and built generations for *improved reasoning capabilities in phi-4*.
 
-Joined Sebastien Bubeck’s Physics of AGI team mid 2023 to build the Phi small language models. *I worked on synthetic generations for coding and filtering web data, ran ablations, improved our PyTorch inference stack and worked to ensure our evaluations were uncontaminated.*
+Worked on the Phi small language models. I built synthetic generations, filtered web data, ran ablations, improved our PyTorch inference stack and worked to decontaminate our evaluations.
 
-Built MSCCL, a programmable communication library for CUDA delivering *significant speedups to a key partner’s inference workload.* I led language design, wrote compilers in Python and MLIR, and built algorithm syntheses.
+Built MSCCL, a programmable communication library delivering *significant speedups to OpenAI’s inference workloads*. I led language design, wrote compilers in Python and MLIR, and built algorithm syntheses.
 
-Built a novel guaranteed-linear-time regex engine for .NET 7, helping CredScan achieve a double digit end-to-end throughput improvement.
-
-Shipped a novel gradient aggregation technique for distributed training in Uber’s Horovod library.
-
-Led the CHET/EVA compiler projects to simplify using homomorphic encryption for machine learning.
-
-Developed an improved stream query compiler to improve query compilation in the SCOPE language.
+Other notable projects:
+-	Linear-time regex engine for .NET 7.
+-	Distributed gradient aggregation for Horovod.
+-	EVA homomorphic encryption compiler.
 
 **Aalto University**, Finland
 {: class="noskip"}
