@@ -7,17 +7,29 @@ permalink: /cv/
 
 ## Experience
 
+**Apple**, USA
+{: class="noskip"}
+
+|||
+|:--|--:|
+|*Machine Learning Researcher*|*28 Apr 2025 - present*|
+{: class="nohead"}
+
+Reasoning and synthetic data on the Foundation Models team.
+
 **Microsoft**, USA
 {: class="noskip"}
 
 |||
 |:--|--:|
-|*Member of Technical Staff*|*22 Jan 2024 - present*|
+|*Member of Technical Staff*|*22 Jan 2024 - 25 Apr 2025*|
 |*Senior Researcher*|*18 Sept 2020 - 21 Jan 2024*|
 |*Post Doctoral Researcher*|*2 Apr 2018 - 17 Sept 2020*|
 |*Research Intern*|*6 June 2016 - 9 Sept 2016*|
 |*Research Intern*|*2 Feb 2015 - 8 May 2015*|
 {: class="nohead"}
+
+Distilled o3-mini into phi-4-reasoning with some amazing collaborators. *I worked on curating high-quality seeds, designing synthetic generations and running ablations for STEM and coding.*
 
 Lead synthetic data generation tool development at Microsoft AI’s pretraining team and built generations for *improved reasoning capabilities in phi-4*.
 
