@@ -17,7 +17,7 @@ order: 1
 
 ## Personal Projects of Note
 
-[Recipe Cards](recipe_cards.pdf): a collection of my often-used recipes as 3x5 inch index cards. [LaTeX](https://github.com/OlliSaarikivi/recipecards)
+[Recipe Cards](recipe_cards.pdf): a collection of my often-used recipes as 3x5 inch index cards. [Web app](recipes/) [LaTeX](https://github.com/OlliSaarikivi/recipecards)
 
 [Forgotten](https://github.com/OlliSaarikivi/forgotten): a game-turned-research-project on in-memory database techniques for ECSs.
 
