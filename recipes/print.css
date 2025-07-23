@@ -1,0 +1,126 @@
+@media print {
+  :root {
+    --crop-len: 0.2in;
+    /* length of each mark */
+    --crop-gap: 0.05in;
+    /* clear gap between trim edge and start of mark */
+    --crop-thick: 1px;
+    /* line weight */
+  }
+
+  #focus-modal,
+  #show-focused-btn,
+  .nav-btn,
+  .category-title,
+  .card.collapsed {
+    display: none !important;
+  }
+
+  html,
+  body {
+    background: white !important;
+    color: #000 !important;
+    padding: 0 !important;
+    min-height: auto !important;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  /* Use a simple block flow */
+  .container,
+  .categories-row,
+  .category-col,
+  .card-stack {
+    display: block !important;
+    width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  .card {
+    box-shadow: none !important;
+    border: none !important;
+    width: calc(5in + 2 * var(--crop-len) + 2 * var(--crop-gap)) !important;
+    height: calc(3in + 2 * var(--crop-len) + 2 * var(--crop-gap)) !important;
+    margin: 0 !important;
+    margin-bottom: calc(-1 * var(--crop-len)) !important;
+    padding: 0 !important;
+    break-inside: avoid;
+    page-break-inside: avoid;
+    overflow: visible;
+  }
+
+  .svg-wrap {
+    position: relative;
+    top: calc(var(--crop-len) + var(--crop-gap)) !important;
+    left: calc(var(--crop-len) + var(--crop-gap)) !important;
+    width: 5in !important;
+    max-width: 5in !important;
+  }
+
+  .svg-wrap svg {
+    width: 100% !important;
+    height: auto !important;
+    background: white !important;
+  }
+
+  /* Kill hover transitions that confuse printers */
+  * {
+    transition: none !important;
+    animation: none !important;
+  }
+
+  /* Remove link styling */
+  a {
+    color: white;
+  }
+
+  a:hover,
+  a:focus {
+    color: white;
+  }
+
+  /* Horizontal marks (left/right) */
+  .svg-wrap::before {
+    content: "";
+    position: absolute;
+    top: calc(-0.5 * var(--crop-thick));
+    bottom: calc(-0.5 * var(--crop-thick));
+    left: calc(-1 * var(--crop-gap) - var(--crop-len));
+    right: calc(-1 * var(--crop-gap) - var(--crop-len));
+    background:
+      /* top-left  */
+      linear-gradient(#000 0 0) 0 0 / var(--crop-len) var(--crop-thick),
+      /* top-right */
+      linear-gradient(#000 0 0) 100% 0 / var(--crop-len) var(--crop-thick),
+      /* bot-left  */
+      linear-gradient(#000 0 0) 0 100% / var(--crop-len) var(--crop-thick),
+      /* bot-right */
+      linear-gradient(#000 0 0) 100% 100% / var(--crop-len) var(--crop-thick);
+    background-repeat: no-repeat;
+    pointer-events: none;
+    z-index: 9999;
+  }
+
+  /* Vertical marks (top/bottom) */
+  .svg-wrap::after {
+    content: "";
+    position: absolute;
+    top: calc(-1 * var(--crop-gap) - var(--crop-len));
+    bottom: calc(-1 * var(--crop-gap) - var(--crop-len));
+    left: calc(-0.5 * var(--crop-thick));
+    right: calc(-0.5 * var(--crop-thick));
+    background:
+      /* top-left  */
+      linear-gradient(#000 0 0) 0 0 / var(--crop-thick) var(--crop-len),
+      /* top-right */
+      linear-gradient(#000 0 0) 100% 0 / var(--crop-thick) var(--crop-len),
+      /* bot-left  */
+      linear-gradient(#000 0 0) 0 100% / var(--crop-thick) var(--crop-len),
+      /* bot-right */
+      linear-gradient(#000 0 0) 100% 100% / var(--crop-thick) var(--crop-len);
+    background-repeat: no-repeat;
+    pointer-events: none;
+    z-index: 9999;
+  }
+}
