@@ -21,31 +21,8 @@
   --card-width: calc(var(--cbw) * var(--cs));
   --card-width-expanded: calc(var(--cbw) * var(--cs) + var(--card-expansion));
   --card-height-collapsed: calc(0.5in * var(--cs));
-}
-
-@media (max-width: 6.5in) {
-  .category-col,
-  .card.expanded {
-    width: 100% !important;
-    min-width: 0 !important;
-    max-width: 100% !important;
-    margin-left: 0 !important;
-    margin-right: 0 !important;
-  }
-  .card {
-    width: 97% !important;
-    min-width: 0 !important;
-    max-width: 97% !important;
-    margin-left: 0 !important;
-    margin-right: 0 !important;
-  }
-
- /* --- Focus modal --- */
-  #focus-modal .focused-cards-grid {
-    grid-template-columns: 1fr !important;
-    width: 100% !important;
-    padding: 0 !important;
-  }
+  --card-height-collapsed-mobile: 8.5vw;
+  --card-popup-mobile: 1.5vw;
 }
 
 html, body {
@@ -301,7 +278,9 @@ body {
   position: absolute;
   top: -0.5rem;
   right: -0.5rem;
-  font-size: 1rem;
+  width: 2.5rem;
+  height: 2.5rem;
+  font-size: 1.5rem;
   color: #b7b7b7;
   line-height: 1;
   cursor: pointer;
@@ -314,7 +293,6 @@ body {
   border: none;
   border-radius: 2rem;
   box-shadow: 0 2px 12px rgba(0,0,0,0.11);
-  padding: 0.58rem 0.9rem;
   cursor: pointer;
   transition: color 0.13s, opacity 0.13s;
   color: #7a2d1f;
@@ -359,6 +337,62 @@ a text, a tspan { fill: currentColor !important; }
 a path, a rect, a circle, a polygon, a polyline, a line {
   stroke: currentColor !important;
   fill: currentColor !important; /* in case your text was converted to paths */
+}
+
+@media (max-width: 6.5in) {
+  .category-col {
+    width: 99%;
+    min-width: 0;
+    max-width: 99%;
+    margin-left: 0;
+    margin-right: 0;
+  }
+  .card.expanded {
+    width: 100%;
+    min-width: 0;
+    max-width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+  }
+  .card {
+    width: 96%;
+    min-width: 0;
+    max-width: 96%;
+    margin-left: 0;
+    margin-right: 0;
+  }
+  .card.collapsed {
+    height: 9vw;
+    min-height: 9vw;
+    max-height: 9vw;
+  }
+
+  .card.collapsed:hover {
+    margin-top: calc(-1.5vw);
+    height: calc(9vw + 1.5vw);
+    min-height: calc(9vw + 1.5vw);
+    max-height: calc(9vw + 1.5vw);
+  }
+
+  .card.collapsed:last-child:hover {
+    margin-bottom: 1.5vw;
+  }
+
+  .card.collapsed:last-child {
+    height: auto;
+    min-height: 0;
+    max-height: none;
+  }
+
+  .remove-btn {
+    right: 0.25rem;
+  }
+
+  /* --- Focus modal --- */
+  #focus-modal .focused-cards-grid {
+    grid-template-columns: 1fr;
+    width: 99%;
+  }
 }
   </style>
 </head>
