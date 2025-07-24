@@ -81,9 +81,9 @@
     "Wontons",
   ],
   "Salads \& Cold Preparations": [
-    "Classic-Chicken-Salad",
+    "American-Chicken-Salad",
     "Salmon-Pate",
-    "Snap-Pea-Chicken-Salad",
+    "Snap-Pea-and-Chicken-Salad",
     "Carrot-Salad",
     "Spicy-Corn-Salad",
     "Orange-and-Radish-Salad",
@@ -107,38 +107,38 @@
   ],
   "Soups \& Stews": [
     "Piquant-Cabbage-Stew",
-    "Lentil-Soup-Worlds-Best",
-    "Pork-Chile-Verde",
-    "Healthy-Turkey-Chili",
-    "Creamy-Vegan-Tomato-Soup",
+    "Tomato-Dal-Soup",
+    "Chile-Verde",
+    "Turkey-Chili",
+    "Tomato-Soup",
     "Lemony-Asparagus-Soup",
-    "Potato-Leek-Soup",
-    "Big-Pot-of-Beans",
+    "Vichyssoise",
+    "Pot-Beans",
     "Pressure-Cooker-Black-Beans",
     "Lentil-and-Sausage-Stew",
-    "Curry-Broth-with-Tofu-and-Herbs",
+    "Curry-Broth-with-Silken-Tofu",
     "Lentil-Pasta-Stew",
-    "Chicken-and-Red-Lentil-Soup",
+    "Chicken-and-Lentil-Soup",
   ],
   "Casseroles \& Savory Pies": [
-    "Freeze-and-Bake-Chicken-Pot-Pies",
+    "Freezer-Chicken-Pot-Pies",
     "Heirloom-Tomato-Tart",
     "Quiche",
     "French-Macaroni-Casserole",
     "Onion-Gruyere-and-Tomato-Tart",
     "French-Onion-Lentils-and-Farro",
     "Korean-Chicken-and-Vermicelli",
-    "Roman-Chicken-with-Potatoes",
+    "Blonde-Chicken-Cacciatore",
   ],
   "Sandwiches \& Flatbreads": [
     "Broiled-Sandwiches",
     "Convection-Tortilla-Pizza",
-    "Vegetarian-Reuben-Sandwich",
+    "Vegetarian-Reuben",
   ],
   "Pasta \& Noodles": [
     "Quick-Pastas",
     "Lighter-Fettucine-Alfredo",
-    "Noodles-in-Pan-Fried-Sauce",
+    "Noodle-Stir-Fries",
     "Reliable-Carbonara",
     "Creamy-Lemony-Pasta",
     "Fresh-Cucumber-Pasta",
@@ -172,7 +172,7 @@
     "Roasted-Vegetables-and-Mozzarella",
     "Tomato-Egg-Drop",
     "Double-Glazed-Salmon",
-    "Crispy-Herbed-Goat-Cheese",
+    "Crispy-Goat-Cheese",
     "Crispy-Halloumi-and-Beans",
   ],
   "Vegetables \& Sides": [
@@ -189,7 +189,7 @@
     "Skillet-Roasted-Brussels-Sprouts",
     "Oven-Ratatouille",
     "Tender-Green-Beans-in-Tomato",
-    "Roasted-Balsamic-Beets",
+    "Balsamic-Beets",
   ],
   "Breads \& Pancakes": [
     "All-Purpose-Enriched-Dough",
@@ -233,6 +233,7 @@
     "Italian-Meringue",
     "Zabaglione",
     "Semifreddo",
+    "Banana-Brulee-Boats",
   ],
   "Drinks": [
     "Natasha",
@@ -262,7 +263,7 @@
     "Blueberry-Syrup",
     "Aji-Verde",
     "Warm-Tomato-Vinaigrette",
-    "Blonde-Balsamic-Vinaigrette",
+    "Blonde-Vinaigrette",
     "Helens-Grilling-Glaze",
     "Gochujang-Ketchup-Marinade",
   ],
@@ -520,7 +521,7 @@
 
   function showSectionsModal() {
     sectionsList.innerHTML = '';
-    sortedCategories.forEach(([catTitle]) => {
+    Object.entries(slugs).forEach(([catTitle]) => {
       const sectionId = "cat-" + encodeURIComponent(catTitle.replace(/\s+/g, '-').toLowerCase());
       const link = document.createElement('a');
       link.href = "#" + sectionId;
