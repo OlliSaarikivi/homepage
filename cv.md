@@ -15,7 +15,7 @@ permalink: /cv/
 |*Machine Learning Researcher*|*28 Apr 2025 - present*|
 {: class="nohead"}
 
-Reasoning capabilities and synthetic data generation on the Foundation Models team.
+Synthetic data generation for pretraining at Apple’s Foundation Models team.
 
 **Microsoft**, USA
 {: class="noskip"}
@@ -29,7 +29,7 @@ Reasoning capabilities and synthetic data generation on the Foundation Models te
 |*Research Intern*|*2 Feb 2015 - 8 May 2015*|
 {: class="nohead"}
 
-Distilled phi-4-reasoning from an OpenAI reasoning model with some amazing collaborators. I curated high-quality seeds, designed synthetic generations and ran ablations for STEM and coding.
+Distilled phi-4-reasoning from an OpenAI reasoning model. Curated high-quality seeds, designed synthetic generations and ran experiments for STEM and coding.
 
 Lead synthetic data generation tool development at Microsoft AI’s pretraining team and built generations for *improved reasoning capabilities in phi-4*.
 
