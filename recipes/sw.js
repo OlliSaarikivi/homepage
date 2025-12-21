@@ -1,5 +1,5 @@
 // sw.template.js
-const CACHE = 'recipe-cards-dc871dc';
+const CACHE = 'recipe-cards-293133d';
 const CORE_ASSETS = [
   '/',
   'index.html',
