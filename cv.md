@@ -111,6 +111,21 @@ Developed Java and LLVM based verification tools.
 
 ## Publications
 
+Changho Hwang, Peng Cheng, Roshan Dathathri, Abhinav Jangda, Saeed Maleki, Madan Musuvathi, **Olli Saarikivi**, Aashaka Shah, Ziyue Yang, Binyang Li, Caio Rocha, Qinghua Zhou, Mahdieh Ghazimirsaeed, Sreevatsa Anantharamu, Jithin Jose.
+*MSCCL++: Rethinking GPU communication abstractions for AI inference.*
+ASPLOS 2026.
+[DOI](https://doi.org/10.1145/3779212.3790188)
+
+Xinyu Zhu, Yihao Feng, Yanchao Sun, Xianzhi Du, Pingzhi Li, **Olli Saarikivi**, Yun Zhu, Yu Meng.
+*CHIMERA: Compact Synthetic Data for Generalizable LLM Reasoning.*
+Preprint, 2026.
+[arXiv](https://arxiv.org/abs/2603.00889)
+
+Ethan Li et al. 
+*Apple intelligence foundation language models: Tech report 2025.*
+Preprint, 2025.
+[arXiv](https://arxiv.org/abs/2507.13575)
+
 Marah Abdin, Sahaj Agarwal, Ahmed Awadallah, Vidhisha Balachandran, Harkirat Behl, Lingjiao Chen, Gustavo de Rosa, Suriya Gunasekar, Mojan Javaheripi, Neel Joshi, Piero Kauffmann, Yash Lara, Caio César Teodoro Mendes, Arindam Mitra, Besmira Nushi, Dimitris Papailiopoulos, **Olli Saarikivi**, Shital Shah, Vaishnavi Shrivastava, Vibhav Vineet, Yue Wu, Safoora Yousefi, Guoqing Zheng.
 *Phi-4-reasoning Technical Report*.
 Whitepaper, 2025.
