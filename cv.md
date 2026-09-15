@@ -7,12 +7,22 @@ permalink: /cv/
 
 ## Experience
 
+**Meta**, USA
+{: class="noskip"}
+
+|||
+|:--|--:|
+|*AI Research Scientist*|*28 Apr 2025 - present*|
+{: class="nohead"}
+
+Pretraining data and large scale synthetic generations for the Muse frontier models.
+
 **Apple**, USA
 {: class="noskip"}
 
 |||
 |:--|--:|
-|*Machine Learning Researcher*|*28 Apr 2025 - present*|
+|*Machine Learning Researcher*|*28 Apr 2025 - 1 May 2026*|
 {: class="nohead"}
 
 Synthetic data generation for pretraining at Apple’s Foundation Models team.
