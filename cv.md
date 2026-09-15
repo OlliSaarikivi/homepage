@@ -25,7 +25,7 @@ Pretraining data and large scale synthetic generations for the Muse frontier mod
 |*Machine Learning Researcher*|*28 Apr 2025 - 1 May 2026*|
 {: class="nohead"}
 
-Synthetic data generation for pretraining at Apple’s Foundation Models team.
+Member of the Foundation Models team. Improved STEM capabilities via pretraining-scale synthetic data. Tuned pretraining data mixtures. Drove data quality improvements through better tooling and practices.
 
 **Microsoft**, USA
 {: class="noskip"}
