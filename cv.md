@@ -12,7 +12,7 @@ permalink: /cv/
 
 |||
 |:--|--:|
-|*AI Research Scientist*|*28 Apr 2025 - present*|
+|*AI Research Scientist*|*8 June 2026 - present*|
 {: class="nohead"}
 
 Pretraining data and large scale synthetic generations for the Muse frontier models.
